@@ -1,48 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/1/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/2/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/auth/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/3/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/courses/bio-climate/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/courses/bim/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/categories/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bio-climate/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/courses/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/overview/data-management/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/overview/design-tools/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/data-management/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/getting-started/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/design-tools/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/overview/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/getting-started/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/courses/parametric-design/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/overview/site-analysis/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/parametric-design/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/architools-tutorials/overview/site-modeling/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/my-tutorial-site/tags/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/site-analysis/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/site-modeling/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/tags/index.html</loc>
   </url>
 </urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses Overview :: Architools</title>
+    <link>http://localhost:1313/Archidemy/cources/index.html</link>
+    <description>A structured overview of courses focusing on Bio-Climate Design, Building Information Modeling (BIM), and Parametric Design.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="http://localhost:1313/Archidemy/cources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio-Climate</title>
+      <link>http://localhost:1313/Archidemy/cources/bio-climate/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>http://localhost:1313/Archidemy/cources/bio-climate/index.html</guid>
+      <description>Study of environmental design strategies and their integration into architectural projects.</description>
+    </item>
+    <item>
+      <title>Building Information Modeling (BIM)</title>
+      <link>http://localhost:1313/Archidemy/cources/bim/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>http://localhost:1313/Archidemy/cources/bim/index.html</guid>
+      <description>In-depth training on BIM concepts and their implementation in architectural practice using Revit.</description>
+    </item>
+    <item>
+      <title>Parametric Design</title>
+      <link>http://localhost:1313/Archidemy/cources/parametric-design/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>http://localhost:1313/Archidemy/cources/parametric-design/index.html</guid>
+      <description>Comprehensive training in parametric design principles and techniques using Grasshopper.</description>
+    </item>
+  </channel>
+</rss>

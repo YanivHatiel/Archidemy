@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Architools Academy :: Architools</title>
-    <link>http://localhost:1313/my-tutorial-site/index.html</link>
+    <title>Archidemy</title>
+    <link>https://yanivhatiel.github.io/Archidemy/index.html</link>
     <description>A platform for architectural design education and mastering parametric tools with Architools.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
-    <atom:link href="http://localhost:1313/my-tutorial-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yanivhatiel.github.io/Archidemy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architools Plugin Tutorials</title>
-      <link>http://localhost:1313/my-tutorial-site/architools-tutorials/index.html</link>
+      <link>https://yanivhatiel.github.io/Archidemy/architools-tutorials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>http://localhost:1313/my-tutorial-site/architools-tutorials/index.html</guid>
+      <guid>https://yanivhatiel.github.io/Archidemy/architools-tutorials/index.html</guid>
       <description>Comprehensive guides and workflows for effective use of the Architools plugin.</description>
     </item>
     <item>
-      <title>Auths</title>
-      <link>http://localhost:1313/my-tutorial-site/auth/index.html</link>
+      <title>SCE_Courses Overview</title>
+      <link>https://yanivhatiel.github.io/Archidemy/courses/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>http://localhost:1313/my-tutorial-site/auth/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Courses Overview</title>
-      <link>http://localhost:1313/my-tutorial-site/courses/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>http://localhost:1313/my-tutorial-site/courses/index.html</guid>
+      <guid>https://yanivhatiel.github.io/Archidemy/courses/index.html</guid>
       <description>A structured overview of courses focusing on Bio-Climate Design, Building Information Modeling (BIM), and Parametric Design.</description>
     </item>
   </channel>
