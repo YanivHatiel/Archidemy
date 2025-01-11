@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integrative Studio :: Architools</title>
+    <link>http://localhost:1313/Archidemy/courses/integrative-studio/index.html</link>
+    <description>Learn the art of integrating design and functionality in this comprehensive studio course.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="http://localhost:1313/Archidemy/courses/integrative-studio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
