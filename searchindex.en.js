@@ -8,7 +8,7 @@ var relearn_searchindex = [
     "uri": "/courses/bim/00_mid_course_submission/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e Bio-Climate Design",
     "content": "Introduction Welcome to the Bio-Climate Design Course Submission Page! Here, you can find all the links needed to submit your work throughout the course. Each form corresponds to a specific assignment or project.",
     "description": "Subbmitions",
     "tags": [],
@@ -24,7 +24,7 @@ var relearn_searchindex = [
     "uri": "/courses/bim/01_introduction_to_bim/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e Bio-Climate Design",
     "content": "Introduction Welcome to the first week of the BIM course. This week, we will focus on the foundational concepts of Building Information Modeling (BIM), its significance in the architectural design process, and its role in facilitating effective collaboration among project stakeholders.\nPresentation Video Recording Watch Resources Autodesk Educational Lisence",
     "description": "Overview of Week 1",
     "tags": [],
@@ -120,6 +120,14 @@ var relearn_searchindex = [
     "uri": "/courses/bim/index.html"
   },
   {
+    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "content": "Bio-Climate Design The Bio-Climate Design Course equips students with the skills to design buildings that respond effectively to their environment. This course focuses on integrating sustainable strategies into architectural projects, emphasizing energy efficiency, climate adaptability, and occupant comfort. Participants will learn to analyze environmental factors, optimize solar and shading strategies, and incorporate renewable energy solutions into their designs. Through practical applications, including performance evaluation and facade optimization, this course bridges the gap between theory and real-world implementation, empowering students to create designs that are both functional and environmentally conscious.\nCourse Structure: 00: Subbmitions 01: Radiation site Analysis, Shadow Study, Wind Rose",
+    "description": "The Bio-Climate Design Course teaches students to design environmentally responsive buildings by integrating sustainable strategies, optimizing energy efficiency, and incorporating renewable solutions for functional and sustainable architecture.",
+    "tags": [],
+    "title": "Bio-Climate Design",
+    "uri": "/courses/bioclimate-design/index.html"
+  },
+  {
     "breadcrumb": "Archidemy",
     "content": "",
     "description": "",
@@ -153,7 +161,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy",
-    "content": "SCE Courses: 00: Subbmitions 01: Radiation site Analysis, Shadow Study, Wind Rose BIM - Building Information Modeling",
+    "content": "SCE Courses: BIM - Building Information Modeling Bio-Climate Design",
     "description": "A structured overview of courses focusing on Bio-Climate Design, Building Information Modeling (BIM), and Parametric Design.",
     "tags": [],
     "title": "SCE Courses",
