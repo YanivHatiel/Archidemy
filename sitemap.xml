@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/1/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/00_mid_course_subbmition/index.html</loc>
   </url>
   <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/2/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/01_introduction_to_bim/index.html</loc>
   </url>
   <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/3/index.html</loc>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/02_walls_floors_site/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/03_export_rhino_massing__graphics__area_tag/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/04_export_rhino__units__location_crops__sheets/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/05_stairs_curtain_walls_subd_print_schedules/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/06_line_type_weight_revit_family_edit/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/07_annotation_beam_system_view_range/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/08_prespective_section_spot_elevation_design_options/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/09_project_north_revit_link/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/10_qa_revit_projects_rendering/index.html</loc>
   </url>
   <url>
     <loc>https://yanivhatiel.github.io/Archidemy/index.html</loc>
   </url>
   <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/courses/bio-climate/index.html</loc>
-  </url>
-  <url>
     <loc>https://yanivhatiel.github.io/Archidemy/courses/bim/index.html</loc>
+  </url>
+  <url>
+    <loc>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/bio-climate/index.html</loc>
   </url>
   <url>
     <loc>https://yanivhatiel.github.io/Archidemy/categories/index.html</loc>
@@ -31,13 +52,7 @@
     <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/design-tools/index.html</loc>
   </url>
   <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/getting-started/index.html</loc>
-  </url>
-  <url>
     <loc>https://yanivhatiel.github.io/Archidemy/architools-tutorials/overview/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yanivhatiel.github.io/Archidemy/courses/parametric-design/index.html</loc>
   </url>
   <url>
     <loc>https://yanivhatiel.github.io/Archidemy/courses/index.html</loc>

@@ -1,59 +1,115 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview \u003e Building Information Modeling (BIM)",
-    "content": "Introduction Welcome to the first week of the BIM course. This week, we will focus on the foundational concepts of Building Information Modeling (BIM), its significance in the architectural design process, and its role in facilitating effective collaboration among project stakeholders.\nVideo Recording Tasks for the Week Watch the lecture video and take notes. Review the provided presentation slides. Complete the assigned task and submit it through the submission form. Resources Autodesk Educational Lisence",
-    "description": "Overview of Week 1 topics and assignments.",
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction Please ensure you submit a single PDF export from your Revit model by then, containing all required drawings.\nThis mid-submission is an essential part of your final grade in the BIM course. It will also provide an opportunity to receive valuable feedback and guidance to help you prepare for the final submission.\nSubmission details Interactive Studio: Submit your current project.\nAll Others: Submit your project from the previous semester.\nList of Drawings 1:500: Section\nGround plan\nSite plan\nTypical plan\n3D View (Diagram)\nPerspective section\nPlease note that the BIM course is only one semester, not a year-long course. Therefore, take this opportunity to fully equip yourselves with these tools",
+    "description": "Mid Course subbmition",
+    "tags": [],
+    "title": "00: Mid Course subbmition",
+    "uri": "/courses/bim/00_mid_course_subbmition/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction Welcome to the first week of the BIM course. This week, we will focus on the foundational concepts of Building Information Modeling (BIM), its significance in the architectural design process, and its role in facilitating effective collaboration among project stakeholders.\nPresentation Video Recording Watch Resources Autodesk Educational Lisence",
+    "description": "Overview of Week 1",
     "tags": [],
     "title": "01: Introduction to BIM",
-    "uri": "/courses/bim/1/index.html"
+    "uri": "/courses/bim/01_introduction_to_bim/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview \u003e Building Information Modeling (BIM)",
-    "content": "Introduction n this session, we will dive deeper into the fundamental elements of building design: walls, floors, and terrain modeling. These components form the structural and aesthetic foundation of any architectural project, and mastering their creation and manipulation is essential for effective BIM workflows.\nVideo Recording",
-    "description": "Overview of Week 1 topics and assignments.",
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction In this session, we will dive deeper into the fundamental elements of building design: walls, floors, and terrain modeling. These components form the foundation of any architectural project, and mastering their creation and manipulation is essential for effective BIM workflows.\nVideo Recording Watch",
+    "description": "Overview of Week 2",
     "tags": [],
     "title": "02: Walls, Floors, Site",
-    "uri": "/courses/bim/2/index.html"
+    "uri": "/courses/bim/02_walls_floors_site/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview \u003e Building Information Modeling (BIM)",
-    "content": "Introduction n this session, we will dive deeper into the fundamental elements of building design: walls, floors, and terrain modeling. These components form the structural and aesthetic foundation of any architectural project, and mastering their creation and manipulation is essential for effective BIM workflows.\nVideo Recording Recording",
-    "description": "Overview of Week 1 topics and assignments.",
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction This session focuses on the critical methodologies and workflows for exporting Rhino geometry into Revit, utilizing Revit’s massing tools, enhancing graphical representation, and implementing area tags. The topics covered in this class are integral to fostering seamless interoperability, facilitating conceptual design, and improving design communication and documentation.\nVideo Recording Watch",
+    "description": "Overview of Week 3",
     "tags": [],
-    "title": "03: Walls, Floors, Site",
-    "uri": "/courses/bim/3/index.html"
+    "title": "03: Export Rhino, Massing , Graphics,  Area Tag",
+    "uri": "/courses/bim/03_export_rhino_massing__graphics__area_tag/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction Welcome to Class 04 of our Revit course introduces critical workflows and tools that are essential for successful project setup and documentation. This session emphasizes the manual process of exporting Rhino geometry into Revit, managing project parameters such as units and locations, and enhancing design clarity through crop views and professional sheet creation. These skills form the foundation for efficient collaboration and precise architectural workflows.\nVideo Recording Watch",
+    "description": "Overview of Week 4",
+    "tags": [],
+    "title": "04: Export Rhino,  Units,  Location, Crops,  Sheets",
+    "uri": "/courses/bim/04_export_rhino__units__location_crops__sheets/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction This session explores advanced architectural elements and tools essential for professional design workflows, focusing on stairs, curtain walls, SUBD modeling, printing techniques, and schedules. By mastering these topics, you will enhance your ability to create detailed, functional, and visually compelling architectural models while improving documentation efficiency.\nVideo Recording Watch Resources CutePDF - PDF Printer",
+    "description": "Overview of Week 5",
+    "tags": [],
+    "title": "05: Stairs, Curtain Walls, SUBD, Print, Schedules",
+    "uri": "/courses/bim/05_stairs_curtain_walls_subd_print_schedules/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction his session focuses on two crucial aspects of architectural documentation and customization: line types/weights and Revit family editing. These topics are essential for creating professional, clear, and precise project deliverables while enabling the development of custom elements tailored to specific design needs.\nVideo Recording Watch",
+    "description": "Overview of Week 6",
+    "tags": [],
+    "title": "06: Line type,weight, Revit Family Edit",
+    "uri": "/courses/bim/06_line_type_weight_revit_family_edit/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction Line Style, Region, Join Walls, Line Pattern, edit section, Beam System,\nVideo Recording Watch",
+    "description": "Overview of Week 7",
+    "tags": [],
+    "title": "07: Annotation, Beam System, View range",
+    "uri": "/courses/bim/07_annotation_beam_system_view_range/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction This session introduces advanced visualization, documentation, and design management techniques, focusing on perspective sections, spot elevations, and design options. These tools are essential for creating detailed, accurate, and flexible architectural representations to enhance design communication and decision-making.\nVideo Recording Watch",
+    "description": "Overview of Week 8",
+    "tags": [],
+    "title": "08: Prespective Section, Spot Elevation, Design Options",
+    "uri": "/courses/bim/08_prespective_section_spot_elevation_design_options/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction This session focuses on aligning project orientation and linking Revit models. These techniques are essential for ensuring accurate project setup, coordination, and collaboration in architectural workflows.\nVideo Recording Watch",
+    "description": "Overview of Week 9",
+    "tags": [],
+    "title": "09: Project North, Revit Link",
+    "uri": "/courses/bim/09_project_north_revit_link/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
+    "content": "Introduction This session is divided into two distinct parts: an interactive Q\u0026A session to address your questions about Revit projects, and a focused workshop on learning a rendering tool. These activities are designed to enhance your problem-solving skills and equip you with the knowledge to create visually compelling renderings.\nVideo Recording Watch",
+    "description": "nan",
+    "tags": [],
+    "title": "10: Q\u0026A Revit Projects, Rendering",
+    "uri": "/courses/bim/10_qa_revit_projects_rendering/index.html"
   },
   {
     "breadcrumb": "",
-    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: Courses: Comprehensive educational content on Parametric Design, BIM, and Bio-Climate. Architools Tutorials: Detailed guides and workflows for effective use of the Architools plugin.",
+    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: Courses: Comprehensive educational content on Parametric Design, BIM, and Bio-Climate. Architools Tutorials: Comming Soon Detailed guides and workflows for effective use of the Architools plugin.",
     "description": "A platform for architectural design education and mastering parametric tools with Architools.",
     "tags": [],
     "title": "Archidemy",
     "uri": "/index.html"
   },
   {
-    "breadcrumb": "Archidemy",
-    "content": "Architools Plugin Tutorials This section provides detailed documentation and tutorials for the Architools plugin, focusing on its integration into architectural design workflows.\nTopics: Getting Started with Architools Core Features and Functions Advanced Architecture Workflows Supplementary Video Tutorials",
-    "description": "Comprehensive guides and workflows for effective use of the Architools plugin.",
+    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course subbmition 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering",
+    "description": "Essential training on BIM concepts and their implementation in architectural practice using Revit.",
     "tags": [],
-    "title": "Architools Plugin Tutorials",
-    "uri": "/architools-tutorials/index.html"
+    "title": "BIM - Building Information Modeling",
+    "uri": "/courses/bim/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview",
+    "breadcrumb": "Archidemy \u003e SCE Courses",
     "content": "Bio-Climate This course focuses on the principles and methodologies of bioclimatic design, emphasizing environmental performance analysis and optimization.\nTopics Covered: Climate-responsive architectural strategies Daylighting, thermal comfort, and airflow analysis Practical use of tools such as Ladybug for performance simulations Course Structure: Includes site analysis and design optimization exercises to apply bioclimatic principles.",
     "description": "Study of environmental design strategies and their integration into architectural projects.",
     "tags": [],
     "title": "Bio-Climate",
-    "uri": "/courses/bio-climate/index.html"
-  },
-  {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview",
-    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: Week 01 Week 02 Week 03 Week 04 Week 05 Week 06 Week 07 Week 08 Week 09 Week 10 Week 11 Week 12 Week 13",
-    "description": "In-depth training on BIM concepts and their implementation in architectural practice using Revit.",
-    "tags": [],
-    "title": "Building Information Modeling (BIM)",
-    "uri": "/courses/bim/index.html"
+    "uri": "/courses/bioclimate-design/bio-climate/index.html"
   },
   {
     "breadcrumb": "Archidemy",
@@ -81,14 +137,6 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
-    "content": "Getting Started This section provides all the necessary steps to begin using Architools.\nTopics Covered: Installation instructions Licensing and activation process Basic configuration User interface overview Follow these steps to ensure a smooth setup.",
-    "description": "Installation, licensing, and initial setup for Architools.",
-    "tags": [],
-    "title": "Getting Started",
-    "uri": "/architools-tutorials/getting-started/index.html"
-  },
-  {
-    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
     "content": "Overview Architools organizes tools into key categories that align with architectural workflows. These categories provide a structured approach to design and project management.\nSubtopics Site Analysis Tools Design Tools Site Modeling Data Management and Visualization",
     "description": "Introduction to the core workflows of Architools.",
     "tags": [],
@@ -96,19 +144,11 @@ var relearn_searchindex = [
     "uri": "/architools-tutorials/overview/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e SCE_Courses Overview",
-    "content": "Parametric Design This course covers the theoretical and practical aspects of parametric design. It emphasizes the use of Grasshopper to develop algorithmic workflows that enhance architectural design processes.\nTopics Covered: Introduction to parametric thinking Fundamentals of Grasshopper scripting Advanced applications in architectural design Course Structure: Includes weekly exercises and a final project to apply parametric techniques in a practical context.",
-    "description": "Comprehensive training in parametric design principles and techniques using Grasshopper.",
-    "tags": [],
-    "title": "Parametric Design",
-    "uri": "/courses/parametric-design/index.html"
-  },
-  {
     "breadcrumb": "Archidemy",
-    "content": "Archidemy: Course Index Archidemy offers in-depth courses tailored to architectural professionals seeking to expand their expertise. Each course is designed to provide a systematic understanding of core concepts and their practical applications in architectural design.\nCourses: Bio-Climate Design Building Information Modeling (BIM) Parametric Design",
+    "content": "SCE Courses: BIM - Building Information Modeling Bio-Climate",
     "description": "A structured overview of courses focusing on Bio-Climate Design, Building Information Modeling (BIM), and Parametric Design.",
     "tags": [],
-    "title": "SCE_Courses Overview",
+    "title": "SCE Courses",
     "uri": "/courses/index.html"
   },
   {
