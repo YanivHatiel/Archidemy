@@ -2,10 +2,18 @@ var relearn_searchindex = [
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
     "content": "Introduction Please ensure you submit a single PDF export from your Revit model by then, containing all required drawings.\nThis mid-submission is an essential part of your final grade in the BIM course. It will also provide an opportunity to receive valuable feedback and guidance to help you prepare for the final submission.\nSubmission details Interactive Studio: Submit your current project.\nAll Others: Submit your project from the previous semester.\nList of Drawings 1:500: Section\nGround plan\nSite plan\nTypical plan\n3D View (Diagram)\nPerspective section\nPlease note that the BIM course is only one semester, not a year-long course. Therefore, take this opportunity to fully equip yourselves with these tools",
-    "description": "Mid Course subbmition",
+    "description": "Mid Course submission",
     "tags": [],
-    "title": "00: Mid Course subbmition",
-    "uri": "/courses/bim/00_mid_course_subbmition/index.html"
+    "title": "00: Mid Course submission",
+    "uri": "/courses/bim/00_mid_course_submission/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "content": "Introduction Welcome to the Bio-Climate Design Course Submission Page! Here, you can find all the links needed to submit your work throughout the course. Each form corresponds to a specific assignment or project.",
+    "description": "Subbmitions",
+    "tags": [],
+    "title": "00: Subbmitions",
+    "uri": "/courses/bioclimate-design/00_subbmitions/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
@@ -14,6 +22,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "01: Introduction to BIM",
     "uri": "/courses/bim/01_introduction_to_bim/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses",
+    "content": "Introduction Welcome to the first week of the BIM course. This week, we will focus on the foundational concepts of Building Information Modeling (BIM), its significance in the architectural design process, and its role in facilitating effective collaboration among project stakeholders.\nPresentation Video Recording Watch Resources Autodesk Educational Lisence",
+    "description": "Overview of Week 1",
+    "tags": [],
+    "title": "01: Radiation site Analysis, Shadow Study, Wind Rose",
+    "uri": "/courses/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
@@ -97,19 +113,11 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses",
-    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course subbmition 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering",
+    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering",
     "description": "Essential training on BIM concepts and their implementation in architectural practice using Revit.",
     "tags": [],
     "title": "BIM - Building Information Modeling",
     "uri": "/courses/bim/index.html"
-  },
-  {
-    "breadcrumb": "Archidemy \u003e SCE Courses",
-    "content": "Bio-Climate This course focuses on the principles and methodologies of bioclimatic design, emphasizing environmental performance analysis and optimization.\nTopics Covered: Climate-responsive architectural strategies Daylighting, thermal comfort, and airflow analysis Practical use of tools such as Ladybug for performance simulations Course Structure: Includes site analysis and design optimization exercises to apply bioclimatic principles.",
-    "description": "Study of environmental design strategies and their integration into architectural projects.",
-    "tags": [],
-    "title": "Bio-Climate",
-    "uri": "/courses/bioclimate-design/bio-climate/index.html"
   },
   {
     "breadcrumb": "Archidemy",
@@ -145,7 +153,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy",
-    "content": "SCE Courses: BIM - Building Information Modeling Bio-Climate",
+    "content": "SCE Courses: 00: Subbmitions 01: Radiation site Analysis, Shadow Study, Wind Rose BIM - Building Information Modeling",
     "description": "A structured overview of courses focusing on Bio-Climate Design, Building Information Modeling (BIM), and Parametric Design.",
     "tags": [],
     "title": "SCE Courses",
