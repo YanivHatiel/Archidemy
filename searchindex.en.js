@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Subbmitions",
     "tags": [],
     "title": "00: Subbmitions",
-    "uri": "/courses/bioclimate-design/00_subbmitions/index.html"
+    "uri": "/courses/bioclimate-design/00_submission/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e BIM - Building Information Modeling",
