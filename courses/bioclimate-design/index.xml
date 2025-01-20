@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bio-Climate Design :: Archidemy</title>
-    <link>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/index.html</link>
+    <link>http://localhost:1313/Archidemy/courses/bioclimate-design/index.html</link>
     <description>The Bio-Climate Design Course teaches students to design environmentally responsive buildings by integrating sustainable strategies, optimizing energy efficiency, and incorporating renewable solutions for functional and sustainable architecture.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
-    <atom:link href="https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Archidemy/courses/bioclimate-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>00: Subbmitions</title>
-      <link>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/00_submission/index.html</link>
+      <title>00: Submission</title>
+      <link>http://localhost:1313/Archidemy/courses/bioclimate-design/00_submission/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/00_submission/index.html</guid>
-      <description>Subbmitions</description>
+      <guid>http://localhost:1313/Archidemy/courses/bioclimate-design/00_submission/index.html</guid>
+      <description>Submission</description>
     </item>
     <item>
       <title>01: Radiation site Analysis, Shadow Study, Wind Rose</title>
-      <link>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</link>
+      <link>http://localhost:1313/Archidemy/courses/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>https://yanivhatiel.github.io/Archidemy/courses/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</guid>
+      <guid>http://localhost:1313/Archidemy/courses/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</guid>
       <description>Overview of Week 1</description>
     </item>
   </channel>

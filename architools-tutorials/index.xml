@@ -10,13 +10,6 @@
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
     <atom:link href="http://localhost:1313/Archidemy/architools-tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started</title>
-      <link>http://localhost:1313/Archidemy/architools-tutorials/getting-started/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>http://localhost:1313/Archidemy/architools-tutorials/getting-started/index.html</guid>
-      <description>Installation, licensing, and initial setup for Architools.</description>
-    </item>
-    <item>
       <title>Overview</title>
       <link>http://localhost:1313/Archidemy/architools-tutorials/overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
