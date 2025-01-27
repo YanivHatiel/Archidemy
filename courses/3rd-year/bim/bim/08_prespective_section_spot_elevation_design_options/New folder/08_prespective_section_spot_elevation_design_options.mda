@@ -1,0 +1,179 @@
+---
+title: "How to Create a Perspective Section in Revit"
+description: "Overview of Week 8"
+draft: false
+presentation_link: ""
+video_link: "https://sce-ac-il.zoom.us/rec/share/9HWimtWY7Xfb4HFFjUJHjyB57IL4NtT40FiE-PBJSBxNP3h-f0Yr2CC-SzKYqKUS.fG7RnzqsfA6mb9tQ?startTime=1735204685000&pwd=-MvjhEvDnHB0qTKZJKD4HLQRXCf5qsAb"
+resources: 
+
+---
+
+# How to Create a Perspective Section in Revit (Manual of Section Style)
+
+
+
+## Introduction
+In **_Manual of Section_** diagrams, some projects feature **line-based** sectional cuts—where the **cut edges are heavily outlined** and the interior remains white or faintly shaded. Meanwhile, background lines are thinner or lighter. This tutorial explains how to **create a perspective section** in Revit and **adjust the graphics** to replicate this crisp, minimal style.
+
+
+
+![An example screenshot](/a.jpg)
+![Screenshot](a.jpg)
+![ManualOfSection.jpg](ManualOfSection.jpg)
+![ManualOfSection.jpg](/img/bim/a.jpg)
+
+
+> **Recommended Approach**  
+> One suggested graphic style is a **Shaded view** with **white overrides** on all projected surfaces, combined with **ambient shadows** and **cast shadows** for depth. If the shadows appear too strong, reduce their intensity in the **Lighting** settings.
+
+---
+
+## 1. Overview
+
+A **perspective section** in Revit helps you and your clients visualize spatial relationships more clearly than in 2D alone. Here's how we'll do it:
+
+1. Create a 2D Section in plan (or another orthographic view).  
+2. Align a 3D camera/perspective to match that section cut.  
+3. Adjust Visibility/Graphics and line weights to emulate **_Manual of Section_** heavier cut lines and lighter background.
+
+Below are **step-by-step** instructions, plus tips on achieving the signature **line-based** look—no need for a heavy, solid-black poche (although you can still do that if you prefer).
+
+---
+
+## 2. Create the 2D Section
+
+1. **Open a Plan View**  
+   - In the **Project Browser**, open the floor plan where you want to cut the section.
+
+2. **Place the Section Line**  
+   - On the **View** tab, choose **Section**.  
+   - Click once to start the section line, and click again to end.  
+   - Adjust the section extents so it slices exactly the portion of the building you want to reveal.
+
+3. **Rename the Section (Optional)**  
+   - In the **Project Browser**, under **Sections**, find your new section (e.g., `Section 1`).  
+   - Right-click and **Rename** it if desired, for instance `Main Hall Perspective Section`.
+
+---
+
+## 3. Align the 3D View to the Section
+
+1. **Open or Create a 3D View**  
+   - If you already have a default `{3D}` view, open it or **duplicate** it to keep your settings separate.  
+   - Alternatively, use **View** > **3D View** > **Camera** to create a perspective from scratch.
+
+2. **Right-Click the ViewCube** in the 3D View  
+   - Choose **Orient to View** > **Section** > *Select Your New Section*.  
+   - Revit rotates and clips the 3D view to align with the 2D section.
+
+3. **Switch to Perspective (If Orthographic)**  
+   - In the **Properties** panel, under **Projection Mode**, switch from *Orthographic* to *Perspective* (if your Revit version allows).  
+   - If not, just create a **Camera View** initially (step 1) and perform **Orient to View** on it.
+
+4. **Crop the View** (for a Camera View)  
+   - Select the crop boundary to resize and focus on the key area you want to present.
+
+---
+
+## 4. Create a Crisp, Line-Based Section Style
+
+To emulate the **_Manual of Section_** look, emphasize **heavier outlines for cut edges** without solid-black fills.
+
+### 4.1 Heavier Cut Lines, Minimal Fill
+
+1. **Open Visibility/Graphics**  
+   - Press <kbd>VG</kbd> (or <kbd>VV</kbd>) to open **Visibility/Graphics**.
+
+2. **Override Cut Lines**  
+   - Expand categories like Walls, Floors, Roofs, etc.  
+   - Under **Cut**, set the **Line Weight** to a higher number (e.g., 4, 5, or 6) for a bold outline where the section plane cuts through each element.  
+   - Keep **Cut Pattern** as **<No Pattern>** or a very light fill if you want subtle shading in the core.
+
+3. **Projection Lines** for Non-Cut Parts  
+   - Set the **Line Weight** to **1** or **2** for "Projection" to ensure background elements are thinner and less prominent.  
+   - You can also override the **Color** to a light gray if you want them to recede visually.
+
+> **Tip:**  
+> To further control line weights, **temporarily switch your 3D view to an Orthographic view** so you can **change the scale**—this affects how line weights display. After adjusting the scale, switch back to **Perspective** (where scale is locked). Print test views until you are satisfied. If needed, override cut lines to be bold and non-cut lines to be thin/gray.
+
+### 4.2 Control Silhouettes
+
+1. **Graphic Display Options**  
+   - In the **Properties** panel, click **Edit...** next to **Graphic Display Options**.
+
+2. **Silhouettes**  
+   - Set Silhouettes to a bold style, like **Wide Lines**, to emphasize outermost edges.
+
+### 4.3 Shading & Shadows
+
+Depending on your aesthetic preference, you can keep the view purely line-based **or** add subtle depth with shadows:
+
+1. **Hidden Line vs. Shaded**  
+   - For a crisp, purely line-based section, choose **Hidden Line** and turn off shadows.  
+   - For a more nuanced look, switch to **Shaded** and **override** materials to be white or very light.
+
+2. **Ambient Shadows & Cast Shadows**  
+   - Turning on **Ambient Shadows** adds gentle depth.  
+   - If you also enable **Cast Shadows**, keep them subtle:  
+     - Go to **Graphic Display Options** > **Lighting** to adjust **Shadow Intensity**.  
+     - Lowering the **Sun** or **Ambient Light** intensity can reduce harshness.
+
+3. **Recommended Approach**  
+   - A **Shaded** view with **white overrides** on all projected surfaces, plus **Ambient Shadows** and **Cast Shadows**, often provides a clean yet spatially rich look.  
+   - If shadows are too dark, **adjust Lighting settings** to reduce their intensity.
+
+---
+
+## 5. De-Emphasize or Hide the Background
+
+Large furniture objects, detailed MEP elements, or structural bracing far in the distance can clutter the diagram:
+
+1. **Visibility/Graphics (VG)**  
+   - Uncheck categories (e.g., Furniture, Specialty Equipment) that don't directly support your sectional story.
+
+2. **Detail Level**  
+   - Set the view's **Detail Level** to **Coarse** or **Medium** for simpler geometry.
+
+3. **Filters**  
+   - For complex models, use **Filters** to systematically hide or override certain element sets.
+
+---
+
+## 6. Export and (Optional) Post-Process
+
+1. **Export**  
+   - **File** > **Export** > **Images and Animations** > **Image** (PNG, TIFF, or JPG) at high resolution.  
+   - Or print to **PDF** for vector output.
+
+2. **Post-Processing in Illustrator / Photoshop**  
+   - You can refine line weights, remove stray lines, or add final graphic touches.  
+   - This step is optional but commonly used in professional settings for a polished, publication-ready look.
+
+---
+
+## 7. Quick Comparison: Line-Based vs. Solid-Black Cut
+
+- **Line-Based (_Manual of Section_ Style)**  
+  - Thicker cut edges, white (or minimal fill) interior, lighter background lines.  
+  - More of a technical, *architectural drawing* feel with clarity in each cut plane.
+
+- **Solid-Black (Poche)**  
+  - Bold black fill for the cut plane with white or faint color beyond.  
+  - Strong graphic separation but can mask certain structural details.
+
+In **_Manual of Section_**, you'll find **both** approaches—some drawings feature full poche, while others rely on heavier outlines. The choice is yours!
+
+---
+
+## 8. Conclusion
+
+By orienting your 3D view or camera to a section cut and then **tweaking line weights and visibility**:
+
+1. **Heavier Cut Lines** emphasize the sectional cut.  
+2. **Minimal or no fill** keeps the cut interior white or faint.  
+3. **Light Projection Lines** push background elements to the visual back.  
+4. **Shadows** can remain off for a purely line-based look, or lightly applied through **Ambient** and **Cast Shadows** for gentle depth.
+
+With these steps—and using the tip of **temporarily switching to Orthographic view to adjust scale**—you can refine line weights and produce a **perspective section** reminiscent of **_Manual of Section_** diagrams: clean, legible, and perfect for conveying the spatial logic of your design.
+
+

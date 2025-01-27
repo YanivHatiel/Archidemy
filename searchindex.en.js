@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "Mid Course submission",
     "tags": [],
     "title": "00: Mid Course submission",
-    "uri": "/courses/3rd-year/bim/00_mid_course_submission/index.html"
+    "uri": "/courses/3rd-year/bim/bim/00_mid_course_submission/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 1",
     "tags": [],
     "title": "01: Introduction to BIM",
-    "uri": "/courses/3rd-year/bim/01_introduction_to_bim/index.html"
+    "uri": "/courses/3rd-year/bim/bim/01_introduction_to_bim/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
@@ -45,7 +45,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 2",
     "tags": [],
     "title": "02: Walls, Floors, Site",
-    "uri": "/courses/3rd-year/bim/02_walls_floors_site/index.html"
+    "uri": "/courses/3rd-year/bim/bim/02_walls_floors_site/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -53,7 +53,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 3",
     "tags": [],
     "title": "03: Export Rhino, Massing , Graphics,  Area Tag",
-    "uri": "/courses/3rd-year/bim/03_export_rhino_massing__graphics__area_tag/index.html"
+    "uri": "/courses/3rd-year/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -61,7 +61,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 4",
     "tags": [],
     "title": "04: Export Rhino,  Units,  Location, Crops,  Sheets",
-    "uri": "/courses/3rd-year/bim/04_export_rhino__units__location_crops__sheets/index.html"
+    "uri": "/courses/3rd-year/bim/bim/04_export_rhino__units__location_crops__sheets/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -69,7 +69,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 5",
     "tags": [],
     "title": "05: Stairs, Curtain Walls, SUBD, Print, Schedules",
-    "uri": "/courses/3rd-year/bim/05_stairs_curtain_walls_subd_print_schedules/index.html"
+    "uri": "/courses/3rd-year/bim/bim/05_stairs_curtain_walls_subd_print_schedules/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -77,7 +77,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 6",
     "tags": [],
     "title": "06: Line type,weight, Revit Family Edit",
-    "uri": "/courses/3rd-year/bim/06_line_type_weight_revit_family_edit/index.html"
+    "uri": "/courses/3rd-year/bim/bim/06_line_type_weight_revit_family_edit/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -85,15 +85,15 @@ var relearn_searchindex = [
     "description": "Overview of Week 7",
     "tags": [],
     "title": "07: Annotation, Beam System, View range",
-    "uri": "/courses/3rd-year/bim/07_annotation_beam_system_view_range/index.html"
+    "uri": "/courses/3rd-year/bim/bim/07_annotation_beam_system_view_range/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
-    "content": "Introduction This session introduces advanced visualization, documentation, and design management techniques, focusing on perspective sections, spot elevations, and design options. These tools are essential for creating detailed, accurate, and flexible architectural representations to enhance design communication and decision-making.\nVideo Recording Watch",
+    "content": "Here�s an image:\nIntroduction This session introduces advanced visualization, documentation, and design management techniques, focusing on perspective sections, spot elevations, and design options. These tools are essential for creating detailed, accurate, and flexible architectural representations to enhance design communication and decision-making.\nVideo Recording Watch Topics: How to Create a Perspective Section in Revit",
     "description": "Overview of Week 8",
     "tags": [],
     "title": "08: Prespective Section, Spot Elevation, Design Options",
-    "uri": "/courses/3rd-year/bim/08_prespective_section_spot_elevation_design_options/index.html"
+    "uri": "/courses/3rd-year/bim/bim/08_prespective_section_spot_elevation_design_options/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -101,7 +101,7 @@ var relearn_searchindex = [
     "description": "Overview of Week 9",
     "tags": [],
     "title": "09: Project North, Revit Link",
-    "uri": "/courses/3rd-year/bim/09_project_north_revit_link/index.html"
+    "uri": "/courses/3rd-year/bim/bim/09_project_north_revit_link/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -109,7 +109,15 @@ var relearn_searchindex = [
     "description": "nan",
     "tags": [],
     "title": "10: Q\u0026A Revit Projects, Rendering",
-    "uri": "/courses/3rd-year/bim/10_qa_revit_projects_rendering/index.html"
+    "uri": "/courses/3rd-year/bim/bim/10_qa_revit_projects_rendering/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
+    "content": "Introduction In this class, students will learn how to move a model from Revit to Twinmotion using the FBX format, then apply and refine materials, lighting, and atmospheric effects to achieve lifelike results. They’ll explore adding vegetation, creating camera views, and exporting high-resolution images or videos. Techniques for using Twinmotion’s section tool to create cutaways will be covered, along with adjusting white balance, implementing normal mapping for more realistic textures, and modifying line styles in floor plan views. Finally, students will learn how to manage object styles for furniture and finalize the overall layout, ensuring a polished, professional presentation.\nVideo Recording Watch Step 1: Prepare Your Revit Model Clean Up the Model: Remove unnecessary or hidden geometry that won�t appear in the exterior render to keep file sizes manageable. Verify Materials \u0026 Naming: Assign clear, descriptive names to your materials in Revit. Proper naming helps when replacing or tweaking them later in Twinmotion. Set Up Views \u0026 Levels: Make sure your Revit project has consistent levels and views. Double-check that your exterior geometry is complete and free of errors. Step 2: Export From Revit to FBX Activate a 3D View: Switch to a 3D view in Revit that shows all exterior elements. Use the FBX Export Option: Go to File \u003e Export \u003e FBX. Name the file appropriately (e.g., Project_Exterior.fbx). Check Export Settings: Include lights, materials, and textures if you need them in Twinmotion. Step 3: Import Your Model Into Twinmotion Open Twinmotion: Start a new project or open an existing scene. Import FBX: Go to File \u003e Import, choose your FBX file, and select Keep Hierarchy to retain the Revit structure. Confirm Scale \u0026 Position: Ensure the model�s units and orientation match your scene requirements. Step 4: Apply and Refine Materials Twinmotion�s Material Library: Drag and drop preset materials onto your model from the library. Custom Materials: Import custom textures if necessary, and tweak their properties in the material panel. Use Normal Maps: Apply normal/bump maps to surfaces (e.g., brick, concrete) for added realism. Step 5: Adjust Lighting \u0026 Environment Sun Orientation: Utilize Geolocation or manual Sun controls to match real-world location or desired lighting angles. Weather \u0026 Atmosphere: Experiment with Cloudiness, Fog, Wind, or Season sliders for your ideal mood. White Balance \u0026 Exposure: Use the Camera settings to fine-tune color temperature and exposure for a polished look. Step 6: Add Landscaping \u0026 Context Vegetation \u0026 Trees: Browse Twinmotion�s Vegetation library for trees, shrubs, and grass. Position them to frame and enhance your exterior scene. Terrain \u0026 Landscape: Adjust ground materials, sculpt terrain, or add water features if your design requires them. Contextual Elements: Include sidewalks, street furniture, or neighboring structures to give your rendering a sense of realism. Step 7: Set Up Camera Views \u0026 Animations Create Static Views: Position the camera to capture the building�s best angles, then save these views. Add Animations (Optional): If you want a walk-through or fly-around, create a Video Path and set keyframes for smooth transitions. Section \u0026 Cutaway Views: Use Twinmotion�s Section Tool for cutaways or to showcase interior-exterior relationships. Step 8: Adjust Line Styles \u0026 Object Visibility (If Needed) Floor Plan View Adjustments: Modify Line Styles and Visibility if you need specific plan-level or schematic-style presentations. Object Styles \u0026 Furniture: Import or load additional objects and furniture to add realism and context. Step 9: Review \u0026 Refine Composition Check: Ensure that landscaping, lighting, and surrounding elements direct attention to key features of the building. Color \u0026 Contrast: Use Post-Processing controls in Twinmotion to adjust contrast, saturation, or apply a subtle vignette. Multiple Angles: Render previews from various viewpoints to ensure a consistent, high-quality presentation. Step 10: Export Final Renders \u0026 Videos High-Resolution Images: Access the Media tab, choose Image or Video, and set your desired resolution (e.g., 4K). Format Selection: Export images as PNG or TIFF, and videos as MP4. Select quality levels that fit your presentation needs. Batch Export: If you have multiple views or animations, use Batch Export to streamline the rendering process.",
+    "description": "nan",
+    "tags": [],
+    "title": "11: Twinmotion Rendering",
+    "uri": "/courses/3rd-year/bim/bim/11_rendering---twinmotion/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses",
@@ -129,7 +137,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: SCE Courses 2nd Year 3rd Year BIM - Building Information Modeling 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering Bio-Climate Design 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort",
+    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: SCE Courses 2nd Year 3rd Year BIM - Building Information Modeling 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering Bio-Climate Design 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort",
     "description": "A platform for architectural design education and mastering parametric tools with Architools.",
     "tags": [],
     "title": "Archidemy",
@@ -137,7 +145,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year",
-    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering",
+    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering",
     "description": "Essential training on BIM concepts and their implementation in architectural practice using Revit.",
     "tags": [],
     "title": "BIM - Building Information Modeling",
@@ -160,7 +168,7 @@ var relearn_searchindex = [
     "uri": "/categories/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
+    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials \u003e Overview",
     "content": "Data Management and Visualization These tools help manage project data and present it effectively. They are essential for documentation and communicating design intent.\nExamples: Data extraction and schedules Performance metrics visualization Custom data visualizations",
     "description": "Tools for managing and presenting project data.",
     "tags": [],
@@ -168,12 +176,28 @@ var relearn_searchindex = [
     "uri": "/architools-tutorials/overview/data-management/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
+    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials \u003e Overview",
     "content": "Design Tools This category covers tools for creating and refining architectural designs. These tools help in exploring parametric options and optimizing concepts.\nExamples: Facade generation Parametric form development Pattern design",
     "description": "Tools for generating and optimizing architectural designs.",
     "tags": [],
     "title": "Design Tools",
     "uri": "/architools-tutorials/overview/design-tools/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling \u003e 08: Prespective Section, Spot Elevation, Design Options",
+    "content": "How to Create a Perspective Section in Revit (Manual of Section Style) Introduction In Manual of Section diagrams, some projects feature line-based sectional cuts�where the cut edges are heavily outlined and the interior remains white or faintly shaded. Meanwhile, background lines are thinner or lighter. This tutorial explains how to create a perspective section in Revit and adjust the graphics to replicate this crisp, minimal style.\nRecommended Approach\nOne suggested graphic style is a Shaded view with white overrides on all projected surfaces, combined with ambient shadows and cast shadows for depth. If the shadows appear too strong, reduce their intensity in the Lighting settings.\n1. Overview A perspective section in Revit helps you and your clients visualize spatial relationships more clearly than in 2D alone. Here’s how we’ll do it:\nCreate a 2D Section in plan (or another orthographic view). Align a 3D camera/perspective to match that section cut. Adjust Visibility/Graphics and line weights to emulate Manual of Section heavier cut lines and lighter background. Below are step-by-step instructions, plus tips on achieving the signature line-based look�no need for a heavy, solid-black poche (although you can still do that if you prefer).\n2. Create the 2D Section Open a Plan View\nIn the Project Browser, open the floor plan where you want to cut the section. Place the Section Line\nOn the View tab, choose Section. Click once to start the section line, and click again to end. Adjust the section extents so it slices exactly the portion of the building you want to reveal. Rename the Section (Optional)\nIn the Project Browser, under Sections, find your new section (e.g., Section 1). Right-click and Rename it if desired, for instance Main Hall Perspective Section. 3. Align the 3D View to the Section Open or Create a 3D View\nIf you already have a default {3D} view, open it or duplicate it to keep your settings separate. Alternatively, use View \u003e 3D View \u003e Camera to create a perspective from scratch. Right-Click the ViewCube in the 3D View\nChoose Orient to View \u003e Section \u003e Select Your New Section. Revit rotates and clips the 3D view to align with the 2D section. Switch to Perspective (If Orthographic)\nIn the Properties panel, under Projection Mode, switch from Orthographic to Perspective (if your Revit version allows). If not, just create a Camera View initially (step 1) and perform Orient to View on it. Crop the View (for a Camera View)\nSelect the crop boundary to resize and focus on the key area you want to present. 4. Create a Crisp, Line-Based Section Style To emulate the Manual of Section look, emphasize heavier outlines for cut edges without solid-black fills.\n4.1 Heavier Cut Lines, Minimal Fill Open Visibility/Graphics\nPress VG (or VV) to open Visibility/Graphics. Override Cut Lines\nExpand categories like Walls, Floors, Roofs, etc. Under Cut, set the Line Weight to a higher number (e.g., 4, 5, or 6) for a bold outline where the section plane cuts through each element. Keep Cut Pattern as or a very light fill if you want subtle shading in the core. Projection Lines for Non-Cut Parts\nSet the Line Weight to 1 or 2 for “Projection” to ensure background elements are thinner and less prominent. You can also override the Color to a light gray if you want them to recede visually. Tip:\nTo further control line weights, temporarily switch your 3D view to an Orthographic view so you can change the scale�this affects how line weights display. After adjusting the scale, switch back to Perspective (where scale is locked). Print test views until you are satisfied. If needed, override cut lines to be bold and non-cut lines to be thin/gray.\n4.2 Control Silhouettes Graphic Display Options\nIn the Properties panel, click Edit… next to Graphic Display Options. Silhouettes\nSet Silhouettes to a bold style, like Wide Lines, to emphasize outermost edges. 4.3 Shading \u0026 Shadows Depending on your aesthetic preference, you can keep the view purely line-based or add subtle depth with shadows:\nHidden Line vs. Shaded\nFor a crisp, purely line-based section, choose Hidden Line and turn off shadows. For a more nuanced look, switch to Shaded and override materials to be white or very light. Ambient Shadows \u0026 Cast Shadows\nTurning on Ambient Shadows adds gentle depth. If you also enable Cast Shadows, keep them subtle: Go to Graphic Display Options \u003e Lighting to adjust Shadow Intensity. Lowering the Sun or Ambient Light intensity can reduce harshness. Recommended Approach\nA Shaded view with white overrides on all projected surfaces, plus Ambient Shadows and Cast Shadows, often provides a clean yet spatially rich look. If shadows are too dark, adjust Lighting settings to reduce their intensity. 5. De-Emphasize or Hide the Background Large furniture objects, detailed MEP elements, or structural bracing far in the distance can clutter the diagram:\nVisibility/Graphics (VG)\nUncheck categories (e.g., Furniture, Specialty Equipment) that don’t directly support your sectional story. Detail Level\nSet the view’s Detail Level to Coarse or Medium for simpler geometry. Filters\nFor complex models, use Filters to systematically hide or override certain element sets. 6. Export and (Optional) Post-Process Export\nFile \u003e Export \u003e Images and Animations \u003e Image (PNG, TIFF, or JPG) at high resolution. Or print to PDF for vector output. Post-Processing in Illustrator / Photoshop\nYou can refine line weights, remove stray lines, or add final graphic touches. This step is optional but commonly used in professional settings for a polished, publication-ready look. 7. Quick Comparison: Line-Based vs. Solid-Black Cut Line-Based (Manual of Section Style)\nThicker cut edges, white (or minimal fill) interior, lighter background lines. More of a technical, architectural drawing feel with clarity in each cut plane. Solid-Black (Poche)\nBold black fill for the cut plane with white or faint color beyond. Strong graphic separation but can mask certain structural details. In Manual of Section, you’ll find both approaches�some drawings feature full poche, while others rely on heavier outlines. The choice is yours!\n8. Conclusion By orienting your 3D view or camera to a section cut and then tweaking line weights and visibility:\nHeavier Cut Lines emphasize the sectional cut. Minimal or no fill keeps the cut interior white or faint. Light Projection Lines push background elements to the visual back. Shadows can remain off for a purely line-based look, or lightly applied through Ambient and Cast Shadows for gentle depth. With these steps�and using the tip of temporarily switching to Orthographic view to adjust scale�you can refine line weights and produce a perspective section reminiscent of Manual of Section diagrams: clean, legible, and perfect for conveying the spatial logic of your design.",
+    "description": "Overview of Week 8",
+    "tags": [],
+    "title": "How to Create a Perspective Section in Revit",
+    "uri": "/courses/3rd-year/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
+    "content": "Overview Architools organizes tools into key categories that align with architectural workflows. These categories provide a structured approach to design and project management.\nSubtopics Site Analysis Tools Design Tools Site Modeling Data Management and Visualization",
+    "description": "Introduction to the core workflows of Architools.",
+    "tags": [],
+    "title": "Overview",
+    "uri": "/architools-tutorials/overview/index.html"
   },
   {
     "breadcrumb": "Archidemy",
@@ -184,7 +208,7 @@ var relearn_searchindex = [
     "uri": "/courses/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
+    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials \u003e Overview",
     "content": "Site Analysis Tools These tools focus on evaluating site-specific conditions and environmental factors. They provide valuable data for informed design decisions.\nExamples: Wind rose analysis Solar studies Shadow impact simulation",
     "description": "Tools for analyzing environmental and site-specific data.",
     "tags": [],
@@ -192,7 +216,7 @@ var relearn_searchindex = [
     "uri": "/architools-tutorials/overview/site-analysis/index.html"
   },
   {
-    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
+    "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials \u003e Overview",
     "content": "Site Modeling This category provides tools for creating terrain and modeling the project’s context. It supports better integration with the surrounding environment.\nExamples: Topography creation Massing studies Contextual building modeling",
     "description": "Tools for terrain and context modeling.",
     "tags": [],
