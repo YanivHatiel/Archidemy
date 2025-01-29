@@ -1,11 +1,11 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
-    "content": "Introduction Please ensure you submit a single PDF export from your Revit model by then, containing all required drawings.\nThis mid-submission is an essential part of your final grade in the BIM course. It will also provide an opportunity to receive valuable feedback and guidance to help you prepare for the final submission.\nSubmission details Interactive Studio: Submit your current project.\nAll Others: Submit your project from the previous semester.\nList of Drawings 1:500: Section\nGround plan\nSite plan\nTypical plan\n3D View (Diagram)\nPerspective section\nPlease note that the BIM course is only one semester, not a year-long course. Therefore, take this opportunity to fully equip yourselves with these tools",
-    "description": "Mid Course submission",
+    "content": "Introduction Welcome to the Academic BIM Submission Portal This platform is dedicated to showcasing the BIM projects developed within the course.\nTopics: FInal Course submission Mid Course submission",
+    "description": "Overview of Week 8",
     "tags": [],
-    "title": "00: Mid Course submission",
-    "uri": "/courses/3rd-year/bim/bim/00_mid_course_submission/index.html"
+    "title": "00: Submission",
+    "uri": "/courses/3rd-year/bim/bim/00_submission/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
@@ -56,12 +56,36 @@ var relearn_searchindex = [
     "uri": "/courses/3rd-year/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html"
   },
   {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
+    "content": "Introduction Welcome to the third topic of the course: Sky Mask. This session focuses on understanding the concept of sky exposure and its impact on environmental design. You will learn how to analyze and visualize obstructions, optimize daylight access, and improve building performance by integrating Sky Mask analysis into your projects\nPresentation Video Recording Watch",
+    "description": "Overview of Week 3",
+    "tags": [],
+    "title": "03: Sky Mask, WaterFlow , Terrain",
+    "uri": "/courses/3rd-year/bioclimate-design/03_sky_mask_waterflow__terrain/index.html"
+  },
+  {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
     "content": "Introduction Welcome to Class 04 of our Revit course introduces critical workflows and tools that are essential for successful project setup and documentation. This session emphasizes the manual process of exporting Rhino geometry into Revit, managing project parameters such as units and locations, and enhancing design clarity through crop views and professional sheet creation. These skills form the foundation for efficient collaboration and precise architectural workflows.\nVideo Recording Watch",
     "description": "Overview of Week 4",
     "tags": [],
     "title": "04: Export Rhino,  Units,  Location, Crops,  Sheets",
     "uri": "/courses/3rd-year/bim/bim/04_export_rhino__units__location_crops__sheets/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
+    "content": "Introduction This page provides an overview of photovoltaic (PV) panel technology, focusing on how solar panels capture and convert sunlight into usable energy and how they can be integrated into a building’s design.\nVideo Recording Watch",
+    "description": "nan",
+    "tags": [],
+    "title": "04: PV Panels",
+    "uri": "/courses/3rd-year/bioclimate-design/04_pv_panels/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
+    "content": "Introduction Here, you’ll learn to assess and compare different PV panel solutions using industry benchmarks, examining factors such as efficiency, cost-effectiveness, and environmental impact.\nVideo Recording Watch",
+    "description": "nan",
+    "tags": [],
+    "title": "05: PV Panels -  Benchmark",
+    "uri": "/courses/3rd-year/bioclimate-design/05_pv_panels_-__benchmark/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -80,12 +104,28 @@ var relearn_searchindex = [
     "uri": "/courses/3rd-year/bim/bim/06_line_type_weight_revit_family_edit/index.html"
   },
   {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
+    "content": "Introduction This section introduces the principles behind shading devices on building façades, exploring how they help regulate indoor temperatures, enhance comfort, and improve energy efficiency.\nVideo Recording Watch",
+    "description": "nan",
+    "tags": [],
+    "title": "06: Shading Devices Facade",
+    "uri": "/courses/3rd-year/bioclimate-design/06_shading_devices_facade/index.html"
+  },
+  {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
     "content": "Introduction Line Style, Region, Join Walls, Line Pattern, edit section, Beam System,\nVideo Recording Watch",
     "description": "Overview of Week 7",
     "tags": [],
     "title": "07: Annotation, Beam System, View range",
     "uri": "/courses/3rd-year/bim/bim/07_annotation_beam_system_view_range/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
+    "content": "Introduction Building on the previous page, this module delves deeper into specialized shading strategies and design variations, showcasing ways to adapt shading systems to different climates and façades.\nVideo Recording Watch",
+    "description": "nan",
+    "tags": [],
+    "title": "07: Shading Devices Façade 2",
+    "uri": "/courses/3rd-year/bioclimate-design/07_shading_devices_fa%C3%A7ade_2/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling",
@@ -137,7 +177,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: SCE Courses 2nd Year 3rd Year BIM - Building Information Modeling 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering Bio-Climate Design 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort",
+    "content": "Architools Academy Architools Academy provides structured resources for developing architectural design skills, focusing on parametric methodologies, BIM, and bioclimatic strategies.\nSections: SCE Courses 2nd Year 3rd Year BIM - Building Information Modeling 00: Submission FInal Course submission Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering Bio-Climate Design 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort 03: Sky Mask, WaterFlow , Terrain 04: PV Panels 05: PV Panels - Benchmark 06: Shading Devices Facade 07: Shading Devices Façade 2",
     "description": "A platform for architectural design education and mastering parametric tools with Architools.",
     "tags": [],
     "title": "Archidemy",
@@ -145,7 +185,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year",
-    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering",
+    "content": "Building Information Modeling (BIM) This course introduces BIM as a systematic approach to building design and documentation, focusing on Revit as a key tool for collaborative workflows and data integration.\nCourse Structure: 00: Submission FInal Course submission Mid Course submission 01: Introduction to BIM 02: Walls, Floors, Site 03: Export Rhino, Massing , Graphics, Area Tag 04: Export Rhino, Units, Location, Crops, Sheets 05: Stairs, Curtain Walls, SUBD, Print, Schedules 06: Line type,weight, Revit Family Edit 07: Annotation, Beam System, View range 08: Prespective Section, Spot Elevation, Design Options How to Create a Perspective Section in Revit 09: Project North, Revit Link 10: Q\u0026A Revit Projects, Rendering 11: Twinmotion Rendering",
     "description": "Essential training on BIM concepts and their implementation in architectural practice using Revit.",
     "tags": [],
     "title": "BIM - Building Information Modeling",
@@ -153,7 +193,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year",
-    "content": "Bio-Climate Design The Bio-Climate Design Course equips students with the skills to design buildings that respond effectively to their environment. This course focuses on integrating sustainable strategies into architectural projects, emphasizing energy efficiency, climate adaptability, and occupant comfort. Participants will learn to analyze environmental factors, optimize solar and shading strategies, and incorporate renewable energy solutions into their designs. Through practical applications, including performance evaluation and facade optimization, this course bridges the gap between theory and real-world implementation, empowering students to create designs that are both functional and environmentally conscious.\nCourse Structure: 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort",
+    "content": "Bio-Climate Design The Bio-Climate Design Course equips students with the skills to design buildings that respond effectively to their environment. This course focuses on integrating sustainable strategies into architectural projects, emphasizing energy efficiency, climate adaptability, and occupant comfort. Participants will learn to analyze environmental factors, optimize solar and shading strategies, and incorporate renewable energy solutions into their designs. Through practical applications, including performance evaluation and facade optimization, this course bridges the gap between theory and real-world implementation, empowering students to create designs that are both functional and environmentally conscious.\nCourse Structure: 00: Submission 01: Radiation site Analysis, Shadow Study, Wind Rose 02: Sunpath Animation, Outdoor comfort 03: Sky Mask, WaterFlow , Terrain 04: PV Panels 05: PV Panels - Benchmark 06: Shading Devices Facade 07: Shading Devices Façade 2",
     "description": "The Bio-Climate Design Course teaches students to design environmentally responsive buildings by integrating sustainable strategies, optimizing energy efficiency, and incorporating renewable solutions for functional and sustainable architecture.",
     "tags": [],
     "title": "Bio-Climate Design",
@@ -184,12 +224,28 @@ var relearn_searchindex = [
     "uri": "/architools-tutorials/overview/design-tools/index.html"
   },
   {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling \u003e 00: Submission",
+    "content": "Introduction Please ensure you submit a single PDF export from your Revit model by then, containing all required drawings.\nThis Final submission is an essential part of your final grade in the BIM course.\nSubmission details Interactive Studio: Submit your current project.\nAll Others: Submit your project from the previous semester.\nList of Drawings: Site Plan (True North) 1:500\nGround Floor plan 1:200\nTypical Floor plan 1:200\nPerspective section\nSection 1:200\n3D View (Diagram)\nRoom Schedule (Plan+Schedule) 1:200\nExterior Render\nInterior Render\nFinal Submission Final Submission Upload",
+    "description": "FInal Course submission",
+    "tags": [],
+    "title": "FInal Course submission",
+    "uri": "/courses/3rd-year/bim/bim/00_submission/final/final_course_submission/index.html"
+  },
+  {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling \u003e 08: Prespective Section, Spot Elevation, Design Options",
     "content": "How to Create a Perspective Section in Revit (Manual of Section Style) Introduction In Manual of Section diagrams, some projects feature line-based sectional cuts�where the cut edges are heavily outlined and the interior remains white or faintly shaded. Meanwhile, background lines are thinner or lighter. This tutorial explains how to create a perspective section in Revit and adjust the graphics to replicate this crisp, minimal style.\nRecommended Approach\nOne suggested graphic style is a Shaded view with white overrides on all projected surfaces, combined with ambient shadows and cast shadows for depth. If the shadows appear too strong, reduce their intensity in the Lighting settings.\n1. Overview A perspective section in Revit helps you and your clients visualize spatial relationships more clearly than in 2D alone. Here’s how we’ll do it:\nCreate a 2D Section in plan (or another orthographic view). Align a 3D camera/perspective to match that section cut. Adjust Visibility/Graphics and line weights to emulate Manual of Section heavier cut lines and lighter background. Below are step-by-step instructions, plus tips on achieving the signature line-based look�no need for a heavy, solid-black poche (although you can still do that if you prefer).\n2. Create the 2D Section Open a Plan View\nIn the Project Browser, open the floor plan where you want to cut the section. Place the Section Line\nOn the View tab, choose Section. Click once to start the section line, and click again to end. Adjust the section extents so it slices exactly the portion of the building you want to reveal. Rename the Section (Optional)\nIn the Project Browser, under Sections, find your new section (e.g., Section 1). Right-click and Rename it if desired, for instance Main Hall Perspective Section. 3. Align the 3D View to the Section Open or Create a 3D View\nIf you already have a default {3D} view, open it or duplicate it to keep your settings separate. Alternatively, use View \u003e 3D View \u003e Camera to create a perspective from scratch. Right-Click the ViewCube in the 3D View\nChoose Orient to View \u003e Section \u003e Select Your New Section. Revit rotates and clips the 3D view to align with the 2D section. Switch to Perspective (If Orthographic)\nIn the Properties panel, under Projection Mode, switch from Orthographic to Perspective (if your Revit version allows). If not, just create a Camera View initially (step 1) and perform Orient to View on it. Crop the View (for a Camera View)\nSelect the crop boundary to resize and focus on the key area you want to present. 4. Create a Crisp, Line-Based Section Style To emulate the Manual of Section look, emphasize heavier outlines for cut edges without solid-black fills.\n4.1 Heavier Cut Lines, Minimal Fill Open Visibility/Graphics\nPress VG (or VV) to open Visibility/Graphics. Override Cut Lines\nExpand categories like Walls, Floors, Roofs, etc. Under Cut, set the Line Weight to a higher number (e.g., 4, 5, or 6) for a bold outline where the section plane cuts through each element. Keep Cut Pattern as or a very light fill if you want subtle shading in the core. Projection Lines for Non-Cut Parts\nSet the Line Weight to 1 or 2 for “Projection” to ensure background elements are thinner and less prominent. You can also override the Color to a light gray if you want them to recede visually. Tip:\nTo further control line weights, temporarily switch your 3D view to an Orthographic view so you can change the scale�this affects how line weights display. After adjusting the scale, switch back to Perspective (where scale is locked). Print test views until you are satisfied. If needed, override cut lines to be bold and non-cut lines to be thin/gray.\n4.2 Control Silhouettes Graphic Display Options\nIn the Properties panel, click Edit… next to Graphic Display Options. Silhouettes\nSet Silhouettes to a bold style, like Wide Lines, to emphasize outermost edges. 4.3 Shading \u0026 Shadows Depending on your aesthetic preference, you can keep the view purely line-based or add subtle depth with shadows:\nHidden Line vs. Shaded\nFor a crisp, purely line-based section, choose Hidden Line and turn off shadows. For a more nuanced look, switch to Shaded and override materials to be white or very light. Ambient Shadows \u0026 Cast Shadows\nTurning on Ambient Shadows adds gentle depth. If you also enable Cast Shadows, keep them subtle: Go to Graphic Display Options \u003e Lighting to adjust Shadow Intensity. Lowering the Sun or Ambient Light intensity can reduce harshness. Recommended Approach\nA Shaded view with white overrides on all projected surfaces, plus Ambient Shadows and Cast Shadows, often provides a clean yet spatially rich look. If shadows are too dark, adjust Lighting settings to reduce their intensity. 5. De-Emphasize or Hide the Background Large furniture objects, detailed MEP elements, or structural bracing far in the distance can clutter the diagram:\nVisibility/Graphics (VG)\nUncheck categories (e.g., Furniture, Specialty Equipment) that don’t directly support your sectional story. Detail Level\nSet the view’s Detail Level to Coarse or Medium for simpler geometry. Filters\nFor complex models, use Filters to systematically hide or override certain element sets. 6. Export and (Optional) Post-Process Export\nFile \u003e Export \u003e Images and Animations \u003e Image (PNG, TIFF, or JPG) at high resolution. Or print to PDF for vector output. Post-Processing in Illustrator / Photoshop\nYou can refine line weights, remove stray lines, or add final graphic touches. This step is optional but commonly used in professional settings for a polished, publication-ready look. 7. Quick Comparison: Line-Based vs. Solid-Black Cut Line-Based (Manual of Section Style)\nThicker cut edges, white (or minimal fill) interior, lighter background lines. More of a technical, architectural drawing feel with clarity in each cut plane. Solid-Black (Poche)\nBold black fill for the cut plane with white or faint color beyond. Strong graphic separation but can mask certain structural details. In Manual of Section, you’ll find both approaches�some drawings feature full poche, while others rely on heavier outlines. The choice is yours!\n8. Conclusion By orienting your 3D view or camera to a section cut and then tweaking line weights and visibility:\nHeavier Cut Lines emphasize the sectional cut. Minimal or no fill keeps the cut interior white or faint. Light Projection Lines push background elements to the visual back. Shadows can remain off for a purely line-based look, or lightly applied through Ambient and Cast Shadows for gentle depth. With these steps�and using the tip of temporarily switching to Orthographic view to adjust scale�you can refine line weights and produce a perspective section reminiscent of Manual of Section diagrams: clean, legible, and perfect for conveying the spatial logic of your design.",
     "description": "Overview of Week 8",
     "tags": [],
     "title": "How to Create a Perspective Section in Revit",
     "uri": "/courses/3rd-year/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html"
+  },
+  {
+    "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e BIM - Building Information Modeling \u003e 00: Submission",
+    "content": "Introduction Please ensure you submit a single PDF export from your Revit model by then, containing all required drawings.\nThis mid-submission is an essential part of your final grade in the BIM course. It will also provide an opportunity to receive valuable feedback and guidance to help you prepare for the final submission.\nSubmission details Interactive Studio: Submit your current project.\nAll Others: Submit your project from the previous semester.\nList of Drawings 1:500: Section\nGround plan\nSite plan\nTypical plan\n3D View (Diagram)\nPerspective section\nPlease note that the BIM course is only one semester, not a year-long course. Therefore, take this opportunity to fully equip yourselves with these tools",
+    "description": "Mid Course submission",
+    "tags": [],
+    "title": "Mid Course submission",
+    "uri": "/courses/3rd-year/bim/bim/00_submission/mid/00_mid_course_submission/index.html"
   },
   {
     "breadcrumb": "Archidemy \u003e Architools Plugin Tutorials",
