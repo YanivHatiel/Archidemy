@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2nd Year :: Archidemy</title>
-    <link>https://architoolacademy.web.app/archidemy/courses/2023/index.html</link>
+    <link>https://yaniv.hatiel.com/archidemy/courses/2023/index.html</link>
     <description>A structured overview of courses for 2nd Year studens</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
-    <atom:link href="https://architoolacademy.web.app/archidemy/courses/2023/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yaniv.hatiel.com/archidemy/courses/2023/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

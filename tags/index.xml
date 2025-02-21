@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags :: Archidemy</title>
-    <link>https://architoolacademy.web.app/archidemy/tags/index.html</link>
+    <link>https://yaniv.hatiel.com/archidemy/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
-    <atom:link href="https://architoolacademy.web.app/archidemy/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yaniv.hatiel.com/archidemy/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

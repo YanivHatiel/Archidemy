@@ -129,7 +129,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Archidemy \u003e SCE Courses \u003e 3rd Year \u003e Bio-Climate Design",
-    "content": "Introduction Building on the previous page, this module delves deeper into specialized shading strategies and design variations, showcasing ways to adapt shading systems to different climates and façades.\nVideo Recording Watch",
+    "content": "Introduction Building on the previous page, this module delves deeper into specialized shading strategies and design variations, showcasing ways to adapt shading systems to different climates and façades.\nPresentation Video Recording Watch",
     "description": "nan",
     "tags": [],
     "title": "08: Horizontal Shading device",

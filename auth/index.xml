@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://architoolacademy.web.app/archidemy/auth/index.html</link>
+    <link>https://yaniv.hatiel.com/archidemy/auth/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
     <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
-    <atom:link href="https://architoolacademy.web.app/archidemy/auth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yaniv.hatiel.com/archidemy/auth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SCE Student Registration</title>
-      <link>https://architoolacademy.web.app/archidemy/auth/register/index.html</link>
+      <link>https://yaniv.hatiel.com/archidemy/auth/register/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>https://architoolacademy.web.app/archidemy/auth/register/index.html</guid>
+      <guid>https://yaniv.hatiel.com/archidemy/auth/register/index.html</guid>
       <description>University Email&#xD;Password&#xD;Confirm Password&#xD;Register</description>
     </item>
     <item>
       <title>Sign In</title>
-      <link>https://architoolacademy.web.app/archidemy/auth/login/index.html</link>
+      <link>https://yaniv.hatiel.com/archidemy/auth/login/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
-      <guid>https://architoolacademy.web.app/archidemy/auth/login/index.html</guid>
+      <guid>https://yaniv.hatiel.com/archidemy/auth/login/index.html</guid>
       <description>Email&#xD;Password&#xD;Sign In&#xD;Don&#39;t have an account?&#xD;Register here.</description>
     </item>
   </channel>
