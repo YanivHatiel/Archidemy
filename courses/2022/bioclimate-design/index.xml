@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio-Climate Design :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/index.html</link>
+    <description>The Bio-Climate Design Course teaches students to design environmentally responsive buildings by integrating sustainable strategies, optimizing energy efficiency, and incorporating renewable solutions for functional and sustainable architecture.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00: Submission</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/00_submission/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/00_submission/index.html</guid>
+      <description>Submission</description>
+    </item>
+    <item>
+      <title>01: Radiation site Analysis, Shadow Study, Wind Rose</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html</guid>
+      <description>Overview of Week 1</description>
+    </item>
+    <item>
+      <title>02: Sunpath Animation, Outdoor comfort</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/02_sunpath_animation_outdoor_comfort/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/02_sunpath_animation_outdoor_comfort/index.html</guid>
+      <description>Overview of Week 2</description>
+    </item>
+    <item>
+      <title>03: Sky Mask, WaterFlow , Terrain</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/03_sky_mask_waterflow__terrain/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/03_sky_mask_waterflow__terrain/index.html</guid>
+      <description>Overview of Week 3</description>
+    </item>
+    <item>
+      <title>04: PV Panels</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/04_pv_panels/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/04_pv_panels/index.html</guid>
+      <description>nan</description>
+    </item>
+    <item>
+      <title>05: PV Panels -  Benchmark</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/05_pv_panels_-__benchmark/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/05_pv_panels_-__benchmark/index.html</guid>
+      <description>nan</description>
+    </item>
+    <item>
+      <title>06: Shading Devices Facade</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/06_shading_devices_facade/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/06_shading_devices_facade/index.html</guid>
+      <description>nan</description>
+    </item>
+    <item>
+      <title>07: Shading Devices Façade 2</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/07_shading_devices_fa%C3%A7ade_2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/07_shading_devices_fa%C3%A7ade_2/index.html</guid>
+      <description>nan</description>
+    </item>
+    <item>
+      <title>08: Horizontal Shading device</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/08_horizontal-shading-device/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/08_horizontal-shading-device/index.html</guid>
+      <description>nan</description>
+    </item>
+  </channel>
+</rss>

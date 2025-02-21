@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architools Plugin :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/architools-tutorials/index.html</link>
+    <description>Comprehensive guides and workflows for effective use of the Architools plugin.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/architools-tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/index.html</guid>
+      <description>Introduction to the core workflows of Architools.</description>
+    </item>
+  </channel>
+</rss>

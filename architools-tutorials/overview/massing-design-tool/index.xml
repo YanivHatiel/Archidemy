@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schematic Design Tools :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/index.html</link>
+    <description>Introduction to the core workflows of Architools.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Massing Design Tools</title>
+      <link>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/massing-design-tools/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/massing-design-tools/index.html</guid>
+      <description>Streamline your early-stage architectural design with the Massing Design Tool-effortlessly insert massing, control FFL height, and generate floors and walls instantly</description>
+    </item>
+    <item>
+      <title>Rhino2Revit[SD Stage]</title>
+      <link>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/rhino2revitsd/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/architools-tutorials/overview/massing-design-tool/rhino2revitsd/index.html</guid>
+      <description>Streamline your early-stage architectural design with the Massing Design Tool-effortlessly insert massing, control FFL height, and generate floors and walls instantly</description>
+    </item>
+  </channel>
+</rss>

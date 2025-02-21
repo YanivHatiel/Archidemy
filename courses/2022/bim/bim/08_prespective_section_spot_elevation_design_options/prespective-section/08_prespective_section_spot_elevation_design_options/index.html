@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html 
+  lang="en-us" 
+  dir="ltr" 
+  itemscope 
+  itemtype="http://schema.org/Article" 
+  data-r-output-format="html"
+>
+  <head>
+  <base href="https://architoolacademy.web.app/">
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.140.2">
+    <meta name="generator" content="Relearn 7.3.1">
+    <meta name="description" content="Overview of Week 8">
+    <meta name="author" content="Yaniv Hatiel">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="How to Create a Perspective Section in Revit :: Archidemy">
+    <meta name="twitter:description" content="Overview of Week 8">
+    <meta property="og:url" content="https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html">
+    <meta property="og:site_name" content="Archidemy">
+    <meta property="og:title" content="How to Create a Perspective Section in Revit :: Archidemy">
+    <meta property="og:description" content="Overview of Week 8">
+    <meta property="og:locale" content="en_us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="SCE Courses">
+    <meta itemprop="name" content="How to Create a Perspective Section in Revit :: Archidemy">
+    <meta itemprop="description" content="Overview of Week 8">
+    <meta itemprop="wordCount" content="1103">
+    <title>How to Create a Perspective Section in Revit :: Archidemy</title>
+
+    
+    <link 
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" 
+      rel="stylesheet"
+    />
+
+    
+    <link href="../../../../../../../css/fontawesome-all.min.css?1740144160" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../../../../../css/fontawesome-all.min.css?1740144160" rel="stylesheet"></noscript>
+    <link href="../../../../../../../css/auto-complete.css?1740144160" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="../../../../../../../css/auto-complete.css?1740144160" rel="stylesheet"></noscript>
+    <link href="../../../../../../../css/perfect-scrollbar.min.css?1740144160" rel="stylesheet">
+    <link href="../../../../../../../css/theme.min.css?1740144160" rel="stylesheet">
+    <link href="../../../../../../../css/format-html.min.css?1740144160" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..\/..\/..\/..\/..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..\/..\/..\/..\/..';
+      window.relearn.absBaseUri='https:\/\/architoolacademy.web.app\/archidemy';
+      window.relearn.min = `.min`;
+      window.relearn.disableAnchorCopy=false;
+      window.relearn.disableAnchorScrolling=false;
+      // variant stuff
+      window.relearn.themevariants = [ 'zen-Light' ];
+      window.relearn.customvariantname = "my-custom-variant";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant");
+        var select = document.querySelector("#R-select-variant");
+        if (select) {
+          select.value = variant;
+        }
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant") ?? "";
+        if( variant == window.relearn.customvariantname ){
+        }else if( !variant || !window.relearn.themevariants.includes(variant) ){
+          variant = window.relearn.themevariants[0];
+          window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+
+    
+
+    
+
+    
+
+  </head>
+  <body 
+    class="mobile-support html"
+    data-url="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html"
+  >
+    <div id="R-body" class="default-animation">
+
+      <div id="R-body-overlay"></div>
+
+      
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#1-overview">1. Overview</a></li>
+    <li><a href="#2-create-the-2d-section">2. Create the 2D Section</a></li>
+    <li><a href="#3-align-the-3d-view-to-the-section">3. Align the 3D View to the Section</a></li>
+    <li><a href="#4-create-a-crisp-line-based-section-style">4. Create a Crisp, Line-Based Section Style</a>
+      <ul>
+        <li><a href="#41-heavier-cut-lines-minimal-fill">4.1 Heavier Cut Lines, Minimal Fill</a></li>
+        <li><a href="#42-control-silhouettes">4.2 Control Silhouettes</a></li>
+        <li><a href="#43-shading--shadows">4.3 Shading &amp; Shadows</a></li>
+      </ul>
+    </li>
+    <li><a href="#5-de-emphasize-or-hide-the-background">5. De-Emphasize or Hide the Background</a></li>
+    <li><a href="#6-export-and-optional-post-process">6. Export and (Optional) Post-Process</a></li>
+    <li><a href="#7-quick-comparison-line-based-vs-solid-black-cut">7. Quick Comparison: Line-Based vs. Solid-Black Cut</a></li>
+    <li><a href="#8-conclusion">8. Conclusion</a></li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../../../../../index.html"><span itemprop="name">Archidemy</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../../../../../courses/index.html"><span itemprop="name">SCE Courses</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../../../../../courses/2022/index.html"><span itemprop="name">3rd Year</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../../../../../courses/2022/bim/index.html"><span itemprop="name">BIM - Building Information Modeling</span></a><meta itemprop="position" content="4">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html"><span itemprop="name">08: Prespective Section, Spot Elevation, Design Options</span></a><meta itemprop="position" content="5">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">How to Create a Perspective Section in Revit</span><meta itemprop="position" content="6"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html" title="08: Prespective Section, Spot Elevation, Design Options (ü°ê)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="../../../../../../../courses/2022/bim/bim/09_project_north_revit_link/index.html" title="09: Project North, Revit Link (ü°í)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+
+<div id="custom-auth-links" class="custom-auth-links" style="margin-left: 1rem;">
+  <ul style="list-style: none; margin: 0; padding: 0; display: flex; align-items: center;">
+    <li id="authInfo" style="margin-right: 1rem;">
+    
+    
+      
+      <span id="userEmail" style="margin-right: 0.5rem;"></span>
+      
+      <a id="signInLink" href="../../../../../../../auth/login/" style="display: inline;">Sign In</a>
+      <a id="logoutLink" href="../../../../../../../Archidemy" onclick="logoutStudent(); return false;" style="display: none;">Logout</a>
+    </li>
+  </ul>
+</div>
+
+
+
+          </div>
+        </div>
+      </nav>
+
+      <div id="R-main-overlay"></div>
+
+      
+      <main id="R-body-inner" class="highlightable courses" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+  </header>
+
+<h1 id="how-to-create-a-perspective-section-in-revit">How to Create a Perspective Section in Revit</h1>
+
+<h1 id="how-to-create-a-perspective-section-in-revit-manual-of-section-style">How to Create a Perspective Section in Revit (Manual of Section Style)</h1>
+<h2 id="introduction">Introduction</h2>
+<p>In <strong><em>Manual of Section</em></strong> diagrams, some projects feature <strong>line-based</strong> sectional cutsówhere the <strong>cut edges are heavily outlined</strong> and the interior remains white or faintly shaded. Meanwhile, background lines are thinner or lighter. This tutorial explains how to <strong>create a perspective section</strong> in Revit and <strong>adjust the graphics</strong> to replicate this crisp, minimal style.</p>
+<p><a href="#R-image-53445a6aa2ee1b4b5ff55f8e69277700" class="lightbox-link"><img alt="Manual of Section" class="noborder lazy lightbox noshadow figure-image" loading="lazy" src="../../../../../../../bim/8/section.jpg" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-53445a6aa2ee1b4b5ff55f8e69277700"><img alt="Manual of Section" class="noborder lazy lightbox noshadow lightbox-image" loading="lazy" src="../../../../../../../bim/8/section.jpg"></a></p>
+<blockquote>
+<p><strong>Recommended Approach</strong><br>
+One suggested graphic style is a <strong>Shaded view</strong> with <strong>white overrides</strong> on all projected surfaces, combined with <strong>ambient shadows</strong> and <strong>cast shadows</strong> for depth. If the shadows appear too strong, reduce their intensity in the <strong>Lighting</strong> settings.</p>
+</blockquote>
+<hr>
+<h2 id="1-overview">1. Overview</h2>
+<p>A <strong>perspective section</strong> in Revit helps you and your clients visualize spatial relationships more clearly than in 2D alone. Here&rsquo;s how we&rsquo;ll do it:</p>
+<ol>
+<li>Create a 2D Section in plan (or another orthographic view).</li>
+<li>Align a 3D camera/perspective to match that section cut.</li>
+<li>Adjust Visibility/Graphics and line weights to emulate <strong><em>Manual of Section</em></strong> heavier cut lines and lighter background.</li>
+</ol>
+<p>Below are <strong>step-by-step</strong> instructions, plus tips on achieving the signature <strong>line-based</strong> lookóno need for a heavy, solid-black poche (although you can still do that if you prefer).</p>
+<hr>
+<h2 id="2-create-the-2d-section">2. Create the 2D Section</h2>
+<ol>
+<li>
+<p><strong>Open a Plan View</strong></p>
+<ul>
+<li>In the <strong>Project Browser</strong>, open the floor plan where you want to cut the section.</li>
+</ul>
+</li>
+<li>
+<p><strong>Place the Section Line</strong></p>
+<ul>
+<li>On the <strong>View</strong> tab, choose <strong>Section</strong>.</li>
+<li>Click once to start the section line, and click again to end.</li>
+<li>Adjust the section extents so it slices exactly the portion of the building you want to reveal.</li>
+</ul>
+</li>
+<li>
+<p><strong>Rename the Section (Optional)</strong></p>
+<ul>
+<li>In the <strong>Project Browser</strong>, under <strong>Sections</strong>, find your new section (e.g., <code>Section 1</code>).</li>
+<li>Right-click and <strong>Rename</strong> it if desired, for instance <code>Main Hall Perspective Section</code>.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="3-align-the-3d-view-to-the-section">3. Align the 3D View to the Section</h2>
+<ol>
+<li>
+<p><strong>Open or Create a 3D View</strong></p>
+<ul>
+<li>If you already have a default <code>{3D}</code> view, open it or <strong>duplicate</strong> it to keep your settings separate.</li>
+<li>Alternatively, use <strong>View</strong> &gt; <strong>3D View</strong> &gt; <strong>Camera</strong> to create a perspective from scratch.</li>
+</ul>
+</li>
+<li>
+<p><strong>Right-Click the ViewCube</strong> in the 3D View</p>
+<ul>
+<li>Choose <strong>Orient to View</strong> &gt; <strong>Section</strong> &gt; <em>Select Your New Section</em>.</li>
+<li>Revit rotates and clips the 3D view to align with the 2D section.</li>
+</ul>
+</li>
+<li>
+<p><strong>Switch to Perspective (If Orthographic)</strong></p>
+<ul>
+<li>In the <strong>Properties</strong> panel, under <strong>Projection Mode</strong>, switch from <em>Orthographic</em> to <em>Perspective</em> (if your Revit version allows).</li>
+<li>If not, just create a <strong>Camera View</strong> initially (step 1) and perform <strong>Orient to View</strong> on it.</li>
+</ul>
+</li>
+<li>
+<p><strong>Crop the View</strong> (for a Camera View)</p>
+<ul>
+<li>Select the crop boundary to resize and focus on the key area you want to present.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="4-create-a-crisp-line-based-section-style">4. Create a Crisp, Line-Based Section Style</h2>
+<p>To emulate the <strong><em>Manual of Section</em></strong> look, emphasize <strong>heavier outlines for cut edges</strong> without solid-black fills.</p>
+<h3 id="41-heavier-cut-lines-minimal-fill">4.1 Heavier Cut Lines, Minimal Fill</h3>
+<ol>
+<li>
+<p><strong>Open Visibility/Graphics</strong></p>
+<ul>
+<li>Press <kbd>VG</kbd> (or <kbd>VV</kbd>) to open <strong>Visibility/Graphics</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Override Cut Lines</strong></p>
+<ul>
+<li>Expand categories like Walls, Floors, Roofs, etc.</li>
+<li>Under <strong>Cut</strong>, set the <strong>Line Weight</strong> to a higher number (e.g., 4, 5, or 6) for a bold outline where the section plane cuts through each element.</li>
+<li>Keep <strong>Cut Pattern</strong> as <strong><No Pattern></strong> or a very light fill if you want subtle shading in the core.</li>
+</ul>
+</li>
+<li>
+<p><strong>Projection Lines</strong> for Non-Cut Parts</p>
+<ul>
+<li>Set the <strong>Line Weight</strong> to <strong>1</strong> or <strong>2</strong> for &ldquo;Projection&rdquo; to ensure background elements are thinner and less prominent.</li>
+<li>You can also override the <strong>Color</strong> to a light gray if you want them to recede visually.</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Tip:</strong><br>
+To further control line weights, <strong>temporarily switch your 3D view to an Orthographic view</strong> so you can <strong>change the scale</strong>óthis affects how line weights display. After adjusting the scale, switch back to <strong>Perspective</strong> (where scale is locked). Print test views until you are satisfied. If needed, override cut lines to be bold and non-cut lines to be thin/gray.</p>
+</blockquote>
+<h3 id="42-control-silhouettes">4.2 Control Silhouettes</h3>
+<ol>
+<li>
+<p><strong>Graphic Display Options</strong></p>
+<ul>
+<li>In the <strong>Properties</strong> panel, click <strong>Edit&hellip;</strong> next to <strong>Graphic Display Options</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Silhouettes</strong></p>
+<ul>
+<li>Set Silhouettes to a bold style, like <strong>Wide Lines</strong>, to emphasize outermost edges.</li>
+</ul>
+</li>
+</ol>
+<h3 id="43-shading--shadows">4.3 Shading &amp; Shadows</h3>
+<p>Depending on your aesthetic preference, you can keep the view purely line-based <strong>or</strong> add subtle depth with shadows:</p>
+<ol>
+<li>
+<p><strong>Hidden Line vs. Shaded</strong></p>
+<ul>
+<li>For a crisp, purely line-based section, choose <strong>Hidden Line</strong> and turn off shadows.</li>
+<li>For a more nuanced look, switch to <strong>Shaded</strong> and <strong>override</strong> materials to be white or very light.</li>
+</ul>
+</li>
+<li>
+<p><strong>Ambient Shadows &amp; Cast Shadows</strong></p>
+<ul>
+<li>Turning on <strong>Ambient Shadows</strong> adds gentle depth.</li>
+<li>If you also enable <strong>Cast Shadows</strong>, keep them subtle:
+<ul>
+<li>Go to <strong>Graphic Display Options</strong> &gt; <strong>Lighting</strong> to adjust <strong>Shadow Intensity</strong>.</li>
+<li>Lowering the <strong>Sun</strong> or <strong>Ambient Light</strong> intensity can reduce harshness.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Recommended Approach</strong></p>
+<ul>
+<li>A <strong>Shaded</strong> view with <strong>white overrides</strong> on all projected surfaces, plus <strong>Ambient Shadows</strong> and <strong>Cast Shadows</strong>, often provides a clean yet spatially rich look.</li>
+<li>If shadows are too dark, <strong>adjust Lighting settings</strong> to reduce their intensity.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="5-de-emphasize-or-hide-the-background">5. De-Emphasize or Hide the Background</h2>
+<p>Large furniture objects, detailed MEP elements, or structural bracing far in the distance can clutter the diagram:</p>
+<ol>
+<li>
+<p><strong>Visibility/Graphics (VG)</strong></p>
+<ul>
+<li>Uncheck categories (e.g., Furniture, Specialty Equipment) that don&rsquo;t directly support your sectional story.</li>
+</ul>
+</li>
+<li>
+<p><strong>Detail Level</strong></p>
+<ul>
+<li>Set the view&rsquo;s <strong>Detail Level</strong> to <strong>Coarse</strong> or <strong>Medium</strong> for simpler geometry.</li>
+</ul>
+</li>
+<li>
+<p><strong>Filters</strong></p>
+<ul>
+<li>For complex models, use <strong>Filters</strong> to systematically hide or override certain element sets.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="6-export-and-optional-post-process">6. Export and (Optional) Post-Process</h2>
+<ol>
+<li>
+<p><strong>Export</strong></p>
+<ul>
+<li><strong>File</strong> &gt; <strong>Export</strong> &gt; <strong>Images and Animations</strong> &gt; <strong>Image</strong> (PNG, TIFF, or JPG) at high resolution.</li>
+<li>Or print to <strong>PDF</strong> for vector output.</li>
+</ul>
+</li>
+<li>
+<p><strong>Post-Processing in Illustrator / Photoshop</strong></p>
+<ul>
+<li>You can refine line weights, remove stray lines, or add final graphic touches.</li>
+<li>This step is optional but commonly used in professional settings for a polished, publication-ready look.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="7-quick-comparison-line-based-vs-solid-black-cut">7. Quick Comparison: Line-Based vs. Solid-Black Cut</h2>
+<ul>
+<li>
+<p><strong>Line-Based (<em>Manual of Section</em> Style)</strong></p>
+<ul>
+<li>Thicker cut edges, white (or minimal fill) interior, lighter background lines.</li>
+<li>More of a technical, <em>architectural drawing</em> feel with clarity in each cut plane.</li>
+</ul>
+</li>
+<li>
+<p><strong>Solid-Black (Poche)</strong></p>
+<ul>
+<li>Bold black fill for the cut plane with white or faint color beyond.</li>
+<li>Strong graphic separation but can mask certain structural details.</li>
+</ul>
+</li>
+</ul>
+<p>In <strong><em>Manual of Section</em></strong>, you&rsquo;ll find <strong>both</strong> approachesósome drawings feature full poche, while others rely on heavier outlines. The choice is yours!</p>
+<hr>
+<h2 id="8-conclusion">8. Conclusion</h2>
+<p>By orienting your 3D view or camera to a section cut and then <strong>tweaking line weights and visibility</strong>:</p>
+<ol>
+<li><strong>Heavier Cut Lines</strong> emphasize the sectional cut.</li>
+<li><strong>Minimal or no fill</strong> keeps the cut interior white or faint.</li>
+<li><strong>Light Projection Lines</strong> push background elements to the visual back.</li>
+<li><strong>Shadows</strong> can remain off for a purely line-based look, or lightly applied through <strong>Ambient</strong> and <strong>Cast Shadows</strong> for gentle depth.</li>
+</ol>
+<p>With these stepsóand using the tip of <strong>temporarily switching to Orthographic view to adjust scale</strong>óyou can refine line weights and produce a <strong>perspective section</strong> reminiscent of <strong><em>Manual of Section</em></strong> diagrams: clean, legible, and perfect for conveying the spatial logic of your design.</p>
+
+  <footer class="footline">
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <div id="R-header" class="default-animation">
+          <a id="R-logo" class="R-default" href="../../../../../../../index.html">
+            Archidemy
+          </a>
+        </div>
+        <script>
+          window.index_js_url="../../../../../../../searchindex.en.js?1740144160";
+        </script>
+        <search><form action="../../../../../../../search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+        <script>
+          var contentLangs=['en'];
+        </script>
+        <script src="../../../../../../../js/auto-complete.js?1740144160" defer></script>
+        <script src="../../../../../../../js/lunr/lunr.min.js?1740144160" defer></script>
+        <script src="../../../../../../../js/lunr/lunr.stemmer.support.min.js?1740144160" defer></script>
+        <script src="../../../../../../../js/lunr/lunr.multi.min.js?1740144160" defer></script>
+        <script src="../../../../../../../js/lunr/lunr.en.min.js?1740144160" defer></script>
+        <script src="../../../../../../../js/search.js?1740144160" defer></script>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <ul>
+          <li><a class="padding" href="../../../../../../../index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+        </ul>
+        <hr class="padding">
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div id="R-shortcutmenu-home" class="R-sidebarmenu">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="" data-nav-id="/architools-tutorials/index.html"><input type="checkbox" id="R-section-2917171db57151c5ff88ff0054f95062" aria-controls="R-subsections-2917171db57151c5ff88ff0054f95062"><label for="R-section-2917171db57151c5ff88ff0054f95062"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Architools Plugin</span></label><a class="padding" href="../../../../../../../architools-tutorials/index.html">Architools Plugin</a><ul id="R-subsections-2917171db57151c5ff88ff0054f95062" class="collapsible-menu">
+            <li class="" data-nav-id="/architools-tutorials/overview/index.html"><input type="checkbox" id="R-section-166a5c7b4abbeb91b85e1ff690cec3e3" aria-controls="R-subsections-166a5c7b4abbeb91b85e1ff690cec3e3"><label for="R-section-166a5c7b4abbeb91b85e1ff690cec3e3"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Overview</span></label><a class="padding" href="../../../../../../../architools-tutorials/overview/index.html">Overview</a><ul id="R-subsections-166a5c7b4abbeb91b85e1ff690cec3e3" class="collapsible-menu">
+            <li class="" data-nav-id="/architools-tutorials/overview/design-tools/index.html"><a class="padding" href="../../../../../../../architools-tutorials/overview/design-tools/index.html">Design Tools</a></li>
+            <li class="" data-nav-id="/architools-tutorials/overview/massing-design-tool/index.html"><input type="checkbox" id="R-section-dce2bf5d228ad9b7301c7c587d81a9f3" aria-controls="R-subsections-dce2bf5d228ad9b7301c7c587d81a9f3"><label for="R-section-dce2bf5d228ad9b7301c7c587d81a9f3"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Schematic Design Tools</span></label><a class="padding" href="../../../../../../../architools-tutorials/overview/massing-design-tool/index.html">Schematic Design Tools</a><ul id="R-subsections-dce2bf5d228ad9b7301c7c587d81a9f3" class="collapsible-menu">
+            <li class="" data-nav-id="/architools-tutorials/overview/massing-design-tool/massing-design-tools/index.html"><a class="padding" href="../../../../../../../architools-tutorials/overview/massing-design-tool/massing-design-tools/index.html">Massing Design Tools</a></li>
+            <li class="" data-nav-id="/architools-tutorials/overview/massing-design-tool/rhino2revitsd/index.html"><a class="padding" href="../../../../../../../architools-tutorials/overview/massing-design-tool/rhino2revitsd/index.html">Rhino2Revit[SD Stage]</a></li></ul></li></ul></li></ul></li>
+            <li class="parent " data-nav-id="/courses/index.html"><input type="checkbox" id="R-section-4878aa38646fe2b52e0374b589868900" aria-controls="R-subsections-4878aa38646fe2b52e0374b589868900" checked><label for="R-section-4878aa38646fe2b52e0374b589868900"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu SCE Courses</span></label><a class="padding" href="../../../../../../../courses/index.html">SCE Courses</a><ul id="R-subsections-4878aa38646fe2b52e0374b589868900" class="collapsible-menu">
+            <li class="" data-nav-id="/courses/2023/index.html"><a class="padding" href="../../../../../../../courses/2023/index.html">2nd Year</a></li>
+            <li class="parent " data-nav-id="/courses/2022/index.html"><input type="checkbox" id="R-section-010dc42a4c09dacc09796c2e3488cfc9" aria-controls="R-subsections-010dc42a4c09dacc09796c2e3488cfc9" checked><label for="R-section-010dc42a4c09dacc09796c2e3488cfc9"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu 3rd Year</span></label><a class="padding" href="../../../../../../../courses/2022/index.html">3rd Year</a><ul id="R-subsections-010dc42a4c09dacc09796c2e3488cfc9" class="collapsible-menu">
+            <li class="parent " data-nav-id="/courses/2022/bim/index.html"><input type="checkbox" id="R-section-391d25f3878ecb6c1fe2a08b7073da56" aria-controls="R-subsections-391d25f3878ecb6c1fe2a08b7073da56" checked><label for="R-section-391d25f3878ecb6c1fe2a08b7073da56"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu BIM - Building Information Modeling</span></label><a class="padding" href="../../../../../../../courses/2022/bim/index.html">BIM - Building Information Modeling</a><ul id="R-subsections-391d25f3878ecb6c1fe2a08b7073da56" class="collapsible-menu">
+            <li class="" data-nav-id="/courses/2022/bim/bim/00_submission/index.html"><input type="checkbox" id="R-section-539af6170f2d12965281872975a3a971" aria-controls="R-subsections-539af6170f2d12965281872975a3a971"><label for="R-section-539af6170f2d12965281872975a3a971"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu 00: Submission</span></label><a class="padding" href="../../../../../../../courses/2022/bim/bim/00_submission/index.html">00: Submission</a><ul id="R-subsections-539af6170f2d12965281872975a3a971" class="collapsible-menu">
+            <li class="" data-nav-id="/courses/2022/bim/bim/00_submission/final/final_course_submission/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/00_submission/final/final_course_submission/index.html">FInal Course submission</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/00_submission/mid/00_mid_course_submission/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/00_submission/mid/00_mid_course_submission/index.html">Mid Course submission</a></li></ul></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/01_introduction_to_bim/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/01_introduction_to_bim/index.html">01: Introduction to BIM</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/02_walls_floors_site/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/02_walls_floors_site/index.html">02: Walls, Floors, Site</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html">03: Export Rhino, Massing , Graphics,  Area Tag</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/04_export_rhino__units__location_crops__sheets/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/04_export_rhino__units__location_crops__sheets/index.html">04: Export Rhino,  Units,  Location, Crops,  Sheets</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/05_stairs_curtain_walls_subd_print_schedules/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/05_stairs_curtain_walls_subd_print_schedules/index.html">05: Stairs, Curtain Walls, SUBD, Print, Schedules</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/06_line_type_weight_revit_family_edit/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/06_line_type_weight_revit_family_edit/index.html">06: Line type,weight, Revit Family Edit</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/07_annotation_beam_system_view_range/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/07_annotation_beam_system_view_range/index.html">07: Annotation, Beam System, View range</a></li>
+            <li class="parent " data-nav-id="/courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html"><input type="checkbox" id="R-section-8a81dcbf6b4e697f798e9c81a2724890" aria-controls="R-subsections-8a81dcbf6b4e697f798e9c81a2724890" checked><label for="R-section-8a81dcbf6b4e697f798e9c81a2724890"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu 08: Prespective Section, Spot Elevation, Design Options</span></label><a class="padding" href="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html">08: Prespective Section, Spot Elevation, Design Options</a><ul id="R-subsections-8a81dcbf6b4e697f798e9c81a2724890" class="collapsible-menu">
+            <li class="active " data-nav-id="/courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html">How to Create a Perspective Section in Revit</a></li></ul></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/09_project_north_revit_link/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/09_project_north_revit_link/index.html">09: Project North, Revit Link</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/10_qa_revit_projects_rendering/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/10_qa_revit_projects_rendering/index.html">10: Q&amp;A Revit Projects, Rendering</a></li>
+            <li class="" data-nav-id="/courses/2022/bim/bim/11_rendering---twinmotion/index.html"><a class="padding" href="../../../../../../../courses/2022/bim/bim/11_rendering---twinmotion/index.html">11: Twinmotion Rendering</a></li></ul></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/index.html"><input type="checkbox" id="R-section-5e22944ecf6a8cb8cc0d086a1953cce8" aria-controls="R-subsections-5e22944ecf6a8cb8cc0d086a1953cce8"><label for="R-section-5e22944ecf6a8cb8cc0d086a1953cce8"><i class="fa-fw fas fa-chevron-right"></i><span class="a11y-only">Submenu Bio-Climate Design</span></label><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/index.html">Bio-Climate Design</a><ul id="R-subsections-5e22944ecf6a8cb8cc0d086a1953cce8" class="collapsible-menu">
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/00_submission/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/00_submission/index.html">00: Submission</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/01_radiation_site_analysis_shadow_study_wind_rose/index.html">01: Radiation site Analysis, Shadow Study, Wind Rose</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/02_sunpath_animation_outdoor_comfort/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/02_sunpath_animation_outdoor_comfort/index.html">02: Sunpath Animation, Outdoor comfort</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/03_sky_mask_waterflow__terrain/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/03_sky_mask_waterflow__terrain/index.html">03: Sky Mask, WaterFlow , Terrain</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/04_pv_panels/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/04_pv_panels/index.html">04: PV Panels</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/05_pv_panels_-__benchmark/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/05_pv_panels_-__benchmark/index.html">05: PV Panels -  Benchmark</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/06_shading_devices_facade/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/06_shading_devices_facade/index.html">06: Shading Devices Facade</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/07_shading_devices_fa%C3%A7ade_2/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/07_shading_devices_fa%C3%A7ade_2/index.html">07: Shading Devices Fa√ßade 2</a></li>
+            <li class="" data-nav-id="/courses/2022/bioclimate-design/08_horizontal-shading-device/index.html"><a class="padding" href="../../../../../../../courses/2022/bioclimate-design/08_horizontal-shading-device/index.html">08: Horizontal Shading device</a></li></ul></li></ul></li></ul></li>
+          </ul>
+        </div>
+    
+        <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"></div>
+        <div id="R-menu-footer">
+          <hr class="padding default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter">
+          <div id="R-prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks">
+            <ul>
+              <li id="R-select-language-container" class="footerLangSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-language"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-language">Language</label>
+                    <select id="R-select-language" onchange="location = this.querySelector( this.value ).dataset.url;">
+                      <option id="R-select-language-en" value="#R-select-language-en" data-url="../../../../../../../courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/prespective-section/08_prespective_section_spot_elevation_design_options/index.html" lang="en-us" selected></option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+              <li id="R-select-variant-container" class="footerVariantSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-paint-brush"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-variant">Theme</label>
+                    <select id="R-select-variant" onchange="window.relearn.changeVariant( this.value );">
+                      <option id="R-select-variant-zen-Light" value="zen-Light" selected>Zen Light</option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+                <script>window.relearn.markVariant();</script>
+              </li>
+              <li class="footerVisitedLinks">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-history"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <button onclick="clearHistory();">Clear History</button>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="R-footer" class="footerFooter showFooter">
+        <p>Built  by <a href="https://www.01Architecture.com/">01Architecture</a></p>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    
+    <script src="../../../../../../../js/clipboard.min.js?1740144160" defer></script>
+    <script src="../../../../../../../js/perfect-scrollbar.min.js?1740144160" defer></script>
+    <script src="../../../../../../../js/theme.js?1740144160" defer></script>
+    <script type="module" src="../../../../../../../js/auth.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIM - Building Information Modeling :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/index.html</link>
+    <description>Essential training on BIM concepts and their implementation in architectural practice using Revit.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/courses/2022/bim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00: Submission</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/index.html</guid>
+      <description>Overview of Week 8</description>
+    </item>
+    <item>
+      <title>01: Introduction to BIM</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/01_introduction_to_bim/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/01_introduction_to_bim/index.html</guid>
+      <description>Overview of Week 1</description>
+    </item>
+    <item>
+      <title>02: Walls, Floors, Site</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/02_walls_floors_site/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/02_walls_floors_site/index.html</guid>
+      <description>Overview of Week 2</description>
+    </item>
+    <item>
+      <title>03: Export Rhino, Massing , Graphics,  Area Tag</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/03_export_rhino_massing__graphics__area_tag/index.html</guid>
+      <description>Overview of Week 3</description>
+    </item>
+    <item>
+      <title>04: Export Rhino,  Units,  Location, Crops,  Sheets</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/04_export_rhino__units__location_crops__sheets/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/04_export_rhino__units__location_crops__sheets/index.html</guid>
+      <description>Overview of Week 4</description>
+    </item>
+    <item>
+      <title>05: Stairs, Curtain Walls, SUBD, Print, Schedules</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/05_stairs_curtain_walls_subd_print_schedules/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/05_stairs_curtain_walls_subd_print_schedules/index.html</guid>
+      <description>Overview of Week 5</description>
+    </item>
+    <item>
+      <title>06: Line type,weight, Revit Family Edit</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/06_line_type_weight_revit_family_edit/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/06_line_type_weight_revit_family_edit/index.html</guid>
+      <description>Overview of Week 6</description>
+    </item>
+    <item>
+      <title>07: Annotation, Beam System, View range</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/07_annotation_beam_system_view_range/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/07_annotation_beam_system_view_range/index.html</guid>
+      <description>Overview of Week 7</description>
+    </item>
+    <item>
+      <title>08: Prespective Section, Spot Elevation, Design Options</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/08_prespective_section_spot_elevation_design_options/index.html</guid>
+      <description>Overview of Week 8</description>
+    </item>
+    <item>
+      <title>09: Project North, Revit Link</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/09_project_north_revit_link/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/09_project_north_revit_link/index.html</guid>
+      <description>Overview of Week 9</description>
+    </item>
+    <item>
+      <title>10: Q&amp;A Revit Projects, Rendering</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/10_qa_revit_projects_rendering/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/10_qa_revit_projects_rendering/index.html</guid>
+      <description>nan</description>
+    </item>
+    <item>
+      <title>11: Twinmotion Rendering</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/11_rendering---twinmotion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/11_rendering---twinmotion/index.html</guid>
+      <description>nan</description>
+    </item>
+  </channel>
+</rss>

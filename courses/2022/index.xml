@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3rd Year :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/courses/2022/index.html</link>
+    <description>A structured overview of courses for 3rd Year studens</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/courses/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIM - Building Information Modeling</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/index.html</guid>
+      <description>Essential training on BIM concepts and their implementation in architectural practice using Revit.</description>
+    </item>
+    <item>
+      <title>Bio-Climate Design</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bioclimate-design/index.html</guid>
+      <description>The Bio-Climate Design Course teaches students to design environmentally responsive buildings by integrating sustainable strategies, optimizing energy efficiency, and incorporating renewable solutions for functional and sustainable architecture.</description>
+    </item>
+  </channel>
+</rss>

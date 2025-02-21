@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>00: Submission :: Archidemy</title>
+    <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/index.html</link>
+    <description>Overview of Week 8</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>yaniv@hatiel.com (Yaniv Hatiel)</managingEditor>
+    <webMaster>yaniv@hatiel.com (Yaniv Hatiel)</webMaster>
+    <atom:link href="https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FInal Course submission</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/final/final_course_submission/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/final/final_course_submission/index.html</guid>
+      <description>FInal Course submission</description>
+    </item>
+    <item>
+      <title>Mid Course submission</title>
+      <link>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/mid/00_mid_course_submission/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>yaniv@hatiel.com (Yaniv Hatiel)</author>
+      <guid>https://architoolacademy.web.app/archidemy/courses/2022/bim/bim/00_submission/mid/00_mid_course_submission/index.html</guid>
+      <description>Mid Course submission</description>
+    </item>
+  </channel>
+</rss>
